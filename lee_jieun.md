@@ -2,7 +2,7 @@
 Year: 1853
 Genre: Opera
 Creator: Giuseppe Verdi
-Disease: tuberculosis
+Disease: pulmonary tuberculosis
 Music: Addio del passato
 Composer: Giuseppe Verdi
 Type: Classical

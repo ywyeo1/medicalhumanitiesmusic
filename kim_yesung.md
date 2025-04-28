@@ -10,4 +10,4 @@ Type: Orchestra
 
 # My Annoying brother
 
-The scene is featured in the latter part of the film, where the older brother Ko Doo-sik (Cho Jung-seok) and his younger brother Ko Doo-young (Do Kyung-soo) are seen dancing together in samba. They wear colorful costumes and dance happily, symbolically expressing the process of resolving conflicts and misunderstandings and understanding each other sincerely. The scene leaves a deep impression on the audience and conveys a message of love and reconciliation between the brothers.
+In the latter part of the movie, Ko Doo-sik (Cho Jung-seok) and his younger brother Ko Doo-young (Do Kyung-soo) overcome long-standing conflicts and restore their true brotherhood. In this scene, the two dance samba together, dispel misunderstandings and wounds, and truly understand each other. The "Oh! Brother" playing in the background music is a cheerful yet warm melody that emphasizes reconciliation and love between the brothers

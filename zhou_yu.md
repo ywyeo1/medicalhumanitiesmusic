@@ -8,5 +8,5 @@ Composer: Ennio Morricone
 Type: Film Score
 ---
 
-#The Legend of 1900
+# The Legend of 1900
 

@@ -5,7 +5,7 @@ Creator: Kelly Barnhill
 Disorder: Schixophrenia
 Music: (_소설에 나오는 노래 제목? 가사? 적기)
 Composer/Singer: madwoman(Luna's mother)(작곡가 혹은 부른 사람 적기)
-Type: (_음악의 타입 적기)Balad
+Type: Balad
 ---
 
 # The Girl Who Drank the Moon

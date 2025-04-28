@@ -1,11 +1,11 @@
 ---
 Year: 2021
-Genre: film
+Genre: Film
 Creator: Sian Heder
-Disability: earing impairment
+Disability: Hearing Impairment
 Music: Both Sides Now
-Singer:Joni Mitchell
-Type:Fork
+Singer: Joni Mitchell
+Type: Fork
 ---
 
 # Coda

@@ -1,3 +1,13 @@
-# The Fault in Our Stars (2014)
-## 제목: All of the Stars 가수: Ed Sheeran, 1991년 출생
-### 'All of the Stars'는 부드럽고 서정적인 멜로디로 두 주인공이 겪는 상실과 사랑, 그리고 죽음에 대한 두려움을 감싸 안는다. 희망과 이별이 교차하는 노랫말은 암이라는 현실적인 고통을 덜어주기보다, 그 슬픔을 조용히 받아들이고 함께 살아가려는 감정을 전해준다.
+---
+Year: 2014
+Genre: Film
+Director: Josh Boone
+Disease: Cancer
+Music: All of the stars
+Type: pop
+Singer: Ed Sheeran
+---
+
+# The Fault in Our Stars
+
+“All of the Stars” captures the loss, love, and fear of death felt by the two main characters through its gentle and lyrical melody. Instead of easing the harsh reality of cancer, the lyrics blend hope and farewell, conveying a heartfelt tone that quietly accepts sorrow and seeks to live through it together.

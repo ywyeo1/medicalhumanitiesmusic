@@ -1,5 +1,3 @@
-# Coda
-
 ---
 Year: 2021
 Genre: film

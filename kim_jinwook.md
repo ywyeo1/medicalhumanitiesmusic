@@ -1,11 +1,11 @@
 ---
-Year : 2018;
-Genre : Film;
-Creator : Choi Sunghyun;
+Year : 2018
+Genre : Film
+Creator : Choi Sunghyun
 Disability : Autism
 Music : Impromptu in C sharp minor Op.66
 Composer : Frédéric François Chopin
-Type : Classical;
+Type : Classical
 ---
 
 # Keys to the Heart

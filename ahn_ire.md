@@ -5,7 +5,7 @@ Creator: Barry Levinson
 Disability: autism
 Music: Leaving Wallbrook - On the Road
 Composer : Hans Zimmer
-Type: Pop
+Type: Electronic Music
 ---
 
 # Rain Man

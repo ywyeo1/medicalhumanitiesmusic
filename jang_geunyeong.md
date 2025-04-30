@@ -10,4 +10,4 @@ Type: Classic
 
 # Wozzeck
 
-In Wozzeck, Alban Berg uses dissonance, atonality, and irregular rhythms to reflect the protagonist’s mental instability. By employing twelve-tone techniques that abandon traditional tonal structure, the music creates a sense of disorientation that mirrors Wozzeck’s psychological breakdown. Rather than serving as background, the music acts as a central force that draws the audience into his disturbed inner world.
+In Wozzeck, Alban Berg employs dissonance, atonality, and fragmented rhythmic patterns to portray the protagonist’s mental collapse. The use of the twelve-tone technique, which avoids any sense of traditional harmony or resolution, reflects the character’s loss of stability and growing detachment from reality. Berg also structures scenes using formal musical forms—such as passacaglia and inventions—but distorts them, reinforcing the idea of a world that appears ordered on the surface yet is fundamentally broken. Through these methods, the music does more than accompany the narrative; it becomes a powerful psychological lens, pulling the audience directly into Wozzeck’s disoriented and unraveling mind.

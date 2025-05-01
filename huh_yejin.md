@@ -4,7 +4,7 @@ Genre: Fiction
 Creator: Kelly Barnhill
 Disorder: Schixophrenia
 Music: (_소설에 나오는 노래 제목? 가사? 적기)
-Composer/Singer: madwoman(Luna's mother)(작곡가 혹은 부른 사람 적기)
+Composer/Singer: madwoman(Luna's mother) and nuns
 Type: Balad
 ---
 

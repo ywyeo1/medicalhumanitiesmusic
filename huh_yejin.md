@@ -1,15 +1,14 @@
 ---
-Year: 2016
-Genre: Fiction
-Creator: Kelly Barnhill
-Disorder: Schixophrenia
-Music: (_소설에 나오는 노래 제목? 가사? 적기)
-Composer/Singer: madwoman(Luna's mother) and nuns
+Year: 2021
+Genre: SF/Musical
+Creator: Mamoru Hosoda
+Disorder: social anxiety disorder
+Music: A Million Miles Away
+Singer: Belle
 Type: Balad
 ---
 
-# The Girl Who Drank the Moon
+# Belle : The Dragon and the Freckled Princess
 
- Based on the content, the background of the times is estimated to be similar to that of the Middle Ages, but the treatment of schizophrenia in the Middle Ages was mean, hateful, and just treated like a madman. The content of the novel about this part is as follows. For some reason, the director nun confines a mad woman who can use magic in a tower, tortures and torments the woman in order to get something out of her.
-
- Through the lyrics of the music, other nuns see that a crazy woman suffers from schizophrenia, and a crazy woman is treated with violence, ignored, and imprisoned by the director nun because she has schizophrenia. Even if a woman hits a wall and scratches herself, she treats her like a crazy person without treating her.
+ This animated film is about a story of a female protagonist who is traumatized by the loss of her mother in an accident as a child, and who overcomes her trauma by singing in front of people under the mask of anonymity in a virtual world called U. It's also a coming-of-age story that shows how she overcomes all of that by shedding her anonymity and singing, exposing herself in front of people to save a child who is being abused.
+ The song “A Million Miles Away” is featured in the beginning of the movie and in the middle of the movie. In the beginning of the movie, the main character, who wanted to sing but suffers from social anxiety disorder, is shown panicking when kids at school ask her to sing at a karaoke bar. Later, on the way home, she is shown tormented by his inability to sing and tries to sing a song she wrote, “A Million Miles Away,” but is unable to get it right. However, later in the movie, she is shown to have overcome her disability to some extent behind a mask of anonymity, singing the song for an abused boy (the dragon). This shows that the anonymity of the virtual world and the connections made in the virtual world can help someone with a psychological disorder heal.

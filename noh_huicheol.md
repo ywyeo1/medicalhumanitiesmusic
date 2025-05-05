@@ -8,7 +8,7 @@ Composer: Ahn Chi-wan
 Type: Folk ballad
 ---
 
-# Miracle in Cell No.7
+# Oasis
 
 After serving time in prison for a hit-and-run accident, Jong-du seeks out the victim’s family. There, he unexpectedly meets Gong-ju, a woman with cerebral palsy. At their first encounter, both feel an uncertain mix of fear and unfamiliar emotions, but through Jong-du’s persistence, they gradually come to realize they are in love.
 This song reflects the moment Gong-ju comes to terms with her feelings for Jong-du. While on a date, she observes ordinary couples around them and imagines what it would be like to love freely without the burden of her disability. She quietly sings of this longing—envisioning a relationship where she and Jong-du could be just like any other couple.

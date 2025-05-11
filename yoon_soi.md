@@ -1,13 +1,13 @@
 ---
 Year: 2022
 Genre: Drama
-Creator: 이재규
+Creator: Lee Jae Gyu
 Disease : metal disease
 MUsic : Gymnopédie No.1
 Composer: Erik Satie
 Type: Classical
 ---
 
-# 정신병동에도 아침이 와요
+#  Daily Dose of Sunshine
 
-Gymnopédie No.1은 단순한 선율과 느린 템포를 통해 병동 안에 깃든 불안, 슬픔, 희망을 동시에 포착한다. 이 음악은 정신질환을 극단적 고통으로만 그리지 않고, 병동 속 인물들의 삶에 흐르는 고요한 시간과 내면의 움직임을 부드럽게 비춘다. 덕분에 드라마는 질병을 '극복'이나 '비극'으로만 보지 않고, 일상 속의 한 장면처럼 자연스럽게 받아들이게 만든다.주로 이 음악은 주인공 '다은'이 등장할 때 자주 드러나는데, 다은은 정신병동의 간호사이자, 정신 질환을 겪고 있는 환자이기도 하다. 결국, 이 음악은 '정상'과 '비정상'이라는 경계 자체를 허물고,모든 인간 존재를 따뜻하고 평등하게 바라보는 시선을 강조하는 드라마의 전체적인 메세지를 더욱 부각시키는 요소로서 작용한다.
+Gymnopédie No.1 captures the anxiety, sorrow, and hope within the ward through its simple melody and slow tempo. Instead of depicting mental illness solely as suffering, the piece gently reflects the quiet flow of time and inner lives of the patients. It helps the drama present illness not as a tragedy or something to overcome, but as a natural part of daily life. The music often plays when the main character, Daeun—a nurse and also a patient—appears. By doing so, it softens the boundary between “normal” and “abnormal,” reinforcing the drama’s core message: a warm, equal view of all human beings.

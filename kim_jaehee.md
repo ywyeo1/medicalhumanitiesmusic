@@ -3,7 +3,7 @@ Year: 2022
 Genre: Drama
 Creator: In Shik Yoo
 Disabilities: Autism spectrum disorder
-ICD : F 84.5
+ICD : 6A02.Z
 Music: Beyond My Dreams
 Singer: Sunwoo Jung-A
 Type: pop

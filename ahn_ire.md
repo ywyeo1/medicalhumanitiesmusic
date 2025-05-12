@@ -3,6 +3,7 @@ Year: 1988
 Genre: Film
 Creator: Barry Levinson
 Disability: autism
+ICD: 6A02
 Music: Leaving Wallbrook - On the Road
 Composer : Hans Zimmer
 Type: Electronic Music

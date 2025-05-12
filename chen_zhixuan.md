@@ -3,6 +3,7 @@ Year: 2001
 Genre: Film
 Creator: Ron Howard
 Disease: Delusional Schizophrenia
+ICD: 6E61.1
 Music: A Kaleidoscope of Mathematicas
 Composer: James Horner
 Type: Classical

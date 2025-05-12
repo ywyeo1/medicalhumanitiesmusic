@@ -3,6 +3,7 @@ Year: 2016 ~ 2019
 Genre: music albums
 Creator: the Caretaker(James Leyland Kirby)
 Disease: Alzheimer's disease
+ICD: 6D80
 Music: It's just a burning memory, etc
 Composer: the Caretaker(James Leyland Kirby)
 Type: Avant-garde

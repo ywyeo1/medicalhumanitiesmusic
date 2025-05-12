@@ -2,7 +2,8 @@
 Year: 2013
 Genre: Film
 Creator: Lars von Trier
-Disease: Excessive sexual drive(Nymphomania)
+Disease: Compulsive sexual behaviour disorder
+ICD: 6C72
 Music: Ich ruf zu Dir, Herr Jesu Christ​
 Composer: Johann Sebastian Bach
 Type: Classical

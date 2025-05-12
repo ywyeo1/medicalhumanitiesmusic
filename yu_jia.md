@@ -2,7 +2,7 @@
 Year: 2007
 Genre: Film
 Creator: Kirsten Sheridan
-Disability: emotional disorder
+Disability: Personality disorder, severity unspecified emotional instability
 Music: this time
 Composer: Jonathan Rhys Meyers 
 Singer: Freddie Highmore

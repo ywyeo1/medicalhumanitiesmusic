@@ -3,7 +3,7 @@ Year: 2016
 Genre: Film
 Creator: Naoko Yamada
 Disease: Hearing Impairment
-ICD： AB53.0
+ICD: AB53.0
 Music: lit
 Composer: Kenso Ushio
 Type: Electronic/Experimental Music&Soundtrack

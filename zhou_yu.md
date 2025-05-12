@@ -3,6 +3,7 @@ Year: 1998
 Genre: Cinema
 Creator: Giuseppe Tornatore
 Disease: Social Anxiety Disorder
+ICD：6B04
 Music: Playing Love
 Composer: Ennio Morricone
 Type: Film Score

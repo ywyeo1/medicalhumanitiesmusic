@@ -3,6 +3,7 @@ Year: 2017
 Genre: Film
 Creator: Choi_Seongheon
 Disease: Savant Syndrome
+ICD: 6A02.Z
 Music: Tchaikovsky Piano Concerto No.1
 Composer: Park_jeongmin
 Type: Classical

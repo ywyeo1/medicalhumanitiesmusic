@@ -2,7 +2,8 @@
 Year: 2017-2018
 Genre: TV series
 Creator: Jonathan Entwistle, Lucy Tcherniak
-Disability: Psychopath
+Disability: PTSD, Antisocial personality Traits
+ICD: 6B40, 6D10.Z
 Music: Walking all day
 Composer: Graham Coxon
 Type: Indie Folk

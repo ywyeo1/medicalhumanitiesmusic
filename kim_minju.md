@@ -4,7 +4,7 @@ Genre: Film
 Director: James Marsh
 Disease: ALS
 ICD: 8B60.0
-Music: Die Walküre Act 1: Vorspiel, Götterdämmerung: Siegfried’s Death and Funeral music
+Music: Die Walküre Act 1 - Vorspiel, Götterdämmerung - Siegfried’s Death and Funeral music
 Composer: Richard Wagner (1813-1883)
 Type: Classical
 ---

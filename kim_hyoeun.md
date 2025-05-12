@@ -8,7 +8,7 @@ Camposet: Lee DongJun
 Type: Orchestral-based film score
 ---
 
-#Perdect Man
+# Perdect Man
 
 “Perfect Man” is a South Korean film directed by Lee Kwang-kuk, which tells the story of Jang-su (played by Seol Kyung-gu), a middle-aged man diagnosed with ALS (Amyotrophic Lateral Sclerosis). As he gradually loses his physical abilities, Jang-su struggles with both his deteriorating body and his emotional turmoil. Despite the devastating nature of his disease, he finds small moments of joy, hope, and connection with the people around him. The film portrays the inner conflict of living with a terminal illness while trying to maintain some sense of dignity and human connection. It is a deeply emotional and thought-provoking exploration of life, loss, and the fragile nature of human existence.
 

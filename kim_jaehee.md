@@ -1,15 +1,15 @@
 ---
 Year: 2022
 Genre: Drama
-Creator: 유인식
+Creator: In Shik Yoo
 Disabilities: Autism spectrum disorder
 Music: Beyond My Dreams
-Singer: 선우정아
+Singer: Sunwoo Jung-A
 Type: pop
 ---
 
- # 이상한 변호사 우영우
+ # Weird lawyer Woo Youngwoo
 
- 천재적인 두뇌와 자폐스펙트럼을 동시에 지닌 영우는 엉뚱하고 뜬금없지만 탄탄하고 곧고 활력 있다. 영우가 조심조심 자신의 속도로 멈추지 않고 한 발 한 발 나아가는 원천은 ‘상상’. 이 노래는 모든 이의 생각과 한계를 뛰어넘는 영우의 푸른 상상 속으로 초대하는 노래다. 이 노래는 영우를 지탱하는 이 상상에 함께할 수 있도록 하면서 좀 더 투명하고 맑은 세상을 상상하게끔 한다.
- 우영우의 내면 세계와 감정을 음악적으로 풀어낸 곡으로, 특히 자폐 스펙트럼 장애를 가진 사람들의 경험을 섬세하게 그려낸다. 노영심 음악감독은 이 곡을 통해 "세상 사람들과 소통하며 살아가려 하는, 소통이 어려운 모두에게 주는 위로"를 전하고자 했다고 밝혔다. 이는 장애를 가진 이들이 겪는 소통의 어려움과 그럼에도 불구하고 세상과 연결되고자 하는 마음을 음악으로 표현한 것이다.
+ Having a genius brain and autism spectrum at the same time, Young-woo is quirky and out of the blue, but solid, straight and energetic. "Imagination" is the source of Young-woo's careful steps forward without stopping at his own pace. This song invites everyone to the blue imagination that goes beyond their thoughts and limits. This song allows us to be with this imagination that supports Young-woo and imagines a more transparent and clear world.
+The song is a musical composition of Woo Young-woo's inner world and emotions, especially depicting the experiences of people with autism spectrum disorder in detail. Through this song, music director Noh Young-sim said he wanted to convey "a comfort to everyone who tries to communicate and live with people in the world." This is a musical expression of the difficulties of communication experienced by people with disabilities and their desire to connect with the world despite this.
  

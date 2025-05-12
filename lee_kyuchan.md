@@ -6,7 +6,7 @@ Disability: Autism Spectrum Disorder
 ICD: 6A02.1
 Music: Run Chowon
 Composer: Junsung Kim
-Type: NEW AGE MUSIC
+Type: New Age Music
 ---
 
 # Marathon

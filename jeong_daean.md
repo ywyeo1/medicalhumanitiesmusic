@@ -8,7 +8,7 @@ Composer: George Gershwin, Ira Gershwin
 Type: Jazz
 ---
 
-#Rain man
+# Rain man
 
 The emotional moment in the elevator where Raymond (Dustin Hoffman) and Susanna (Valeria Golino) dance and express their emotions further enhances the emotional atmosphere of the film. 
 

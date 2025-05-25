@@ -3,6 +3,7 @@ Year : 1988
 Genre: Film
 Creator: Barry Levinson
 Disease: Savant Syndrome
+ICD: F84.0
 Music: They Can’t Take That Away from Me
 Composer: George Gershwin, Ira Gershwin
 Type: Jazz

@@ -20,4 +20,4 @@ The first half follows a tragic development leading to Sim Cheong’s death, whi
 
 Example: In the 2011 French film The Intouchables, the music related to disability appears in the latter part of the film. The main character, Philippe, is a white man who became fully paralyzed after an accident. He falls in love with his female caregiver, and when she leaves, he experiences a deep sense of loss.
 
-This situation reminds me of the Korean story of Simcheong, which I previously summarized. In that story, Simcheong’s father, Simbongsa, is blind. He wanders from place to place begging for food in order to care for his daughter. The emotional connection and sense of sacrifice in both stories offer a meaningful point of comparison. [*The lntouchables*](Kim_naeun.md)
+This situation reminds me of the Korean story of Simcheong, which I previously summarized. In that story, Simcheong’s father, Simbongsa, is blind. He wanders from place to place begging for food in order to care for his daughter. The emotional connection and sense of sacrifice in both stories offer a meaningful point of comparison. [*Thelntouchables*](Kim_naeun.md)

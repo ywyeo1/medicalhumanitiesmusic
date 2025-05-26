@@ -15,4 +15,4 @@ Type: Rock
  
  In film, a cover version by the German rock band, Selig, was used, with greater emphasis on the band's instrumentation and performed in a lower key compared to the original. The first verse is sung solely by the vocalist, and from the second verse onward, a chorus joins in, similar to the original version. The refrain and instrumental sections are repeated, extending the overall length of the song and enhancing the lingering emotion of the ending.
  
-The story portrays a narrative similar to [*Bohemian Rhapsody*](kwak_junyeong.md), in that the character continues to suffer from illness but does not despair over their situation. Instead, they persistently strive to achieve their goals without giving up, even if a cure is unattainable.
+Example: The story portrays a narrative similar to [*Bohemian Rhapsody*](kwak_junyeong.md), in that the character continues to suffer from illness but does not despair over their situation. Instead, they persistently strive to achieve their goals without giving up, even if a cure is unattainable.

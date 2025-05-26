@@ -2,7 +2,7 @@
 Year: 2018
 Genre: Film
 Creator: Bryan Singer
-Disease: HIV/AIDs
+Disease: HIV/AIDS
 ICD: 8A45.0Y
 Music: The Show Must Go On
 Singer: Freddie Mercury

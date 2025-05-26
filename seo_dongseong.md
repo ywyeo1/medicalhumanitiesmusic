@@ -13,5 +13,6 @@ Type: Classical
 
 Jóhannsson’s music uses gentle piano motifs and swelling strings to evoke both the vulnerability and inner strength of Hawking as he faces physical decline.The score’s hopeful yet melancholic tone mirrors the persistence of intellect and love despite the progression of disease, allowing the audience to feel both the sorrow and inspiration in Hawking’s story.
 
-
+extra information
+[*작품제목*](file_name)~~~설명
 

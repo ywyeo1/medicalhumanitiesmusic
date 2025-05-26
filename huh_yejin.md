@@ -1,6 +1,6 @@
 ---
 Year: 2021
-Genre: SF/Musical
+Genre: SF/Musical Film
 Creator: Mamoru Hosoda
 Disorder: social anxiety disorder
 ICD: 6B04

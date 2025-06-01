@@ -13,7 +13,7 @@ In the 1940s, when World War II was in full swing, a sudden plague broke out in 
 
 It shows what choices humans make in the face of the inevitable catastrophic fate that is facing everyone, centering on the protagonist, Dr. Li and Health University. Not only is it a representative work of existentialist literature, but it is also the beginning of the disaster novel genre in public.
 
-
+The similar desease is described in Park Sang Young's 2024 drama [*The Love Law of Big city*](yum_jihyeon.md) The drama suran song "Erotic Joke"
 
 
 

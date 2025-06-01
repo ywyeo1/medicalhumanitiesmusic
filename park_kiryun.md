@@ -15,4 +15,4 @@ Type: POP
 
 The same disease, in [the same film](kwak_junyeong.md), is described with different music named "Bohemian Rhapsody". in this writing, AIDS is described through Freddie Mercury's performance 'Live Aid'.
 
-Park Sang Young's 2024 film [*Love in the Big City*](yum_jihyeon.md) also describes HIV infection. Through SURAN's music Erotic Joke, the writing deals with the social suffering of HIV.
+Park Sang Young's 2024 film [*Love in the Big City*](yum_jihyeon.md) also describes HIV infection. Through SURAN's music "Erotic Joke", the writing deals with the social suffering of HIV.

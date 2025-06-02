@@ -22,4 +22,4 @@ But there is a difference in respect of function of the music performs in each m
 The music 'Impromptu in C sharp minor Op.66' reveals Genius of the protagonist Jintae,
 but the music 'Leaving Wallbrook - On the Road' shows disability of the protagonist. 
 
-<img src="https://github.com/hellopiyo/medicalhumanitiesmusic/blob/main/kim_jinwook_img.png"./kim_jinwook_img.jpg" alt="This is a picture about this movie." style="width:25%;"
+<img src="./kim_jinwook_img.jpg" alt="description" style="width:25%;"/>

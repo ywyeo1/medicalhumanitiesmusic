@@ -15,4 +15,4 @@ In CODA, the family members are deaf, and only the main character, Ruby, can hea
 
 A film that deals with the same hearing impairment. In the film [*A Silent Voice*](jin_guangxin.md), the main character has a hearing impairment that gradually worsens. In contrast, in the film CODA, it is the protagonist’s family—excluding the protagonist herself—that has hearing impairments. This difference can be seen as a key distinction between the two films.
 
-<img src="./hangahyeon_img.png" alt=" it is a scene where someone sings on stage using sign language" style="width:25%;" />
+<img src="./hangahyeon_img.png" alt="it is a scene where someone sings on stage using sign language" style="width:25%;" />

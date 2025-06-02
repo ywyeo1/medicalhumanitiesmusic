@@ -2,7 +2,7 @@
 Year: 1853
 Genre: Operas
 Creator: Francesco Maria Piave
-Disease: tuberculosis
+Disease: Tuberculosis
 ICD: 1B10
 Music: Addio del passato
 Composer: Giuseppe Verdi

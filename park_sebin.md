@@ -16,3 +16,5 @@ Savant Syndrome refers to a phenomenon where individuals with mental disabilitie
 [In one of the film's most memorable scenes](https://youtu.be/fLt6uvYrxRk?si=J60Kcz7gmK--xaYv), Jin-tae plays Tchaikovsky's Piano Concerto No.1 Bb minor Op.23.
 
 Autism, a type of developmental disorder, is depicted in Yoon-chul Chung’s 2005 film [*Marathon*](kim_taehyeong.md). The song “Run, Cho-won” featured in the movie effectively reflects the protagonist’s repetitive and routine-based life. Just as the main character in the film Keys to the Heart, which I wrote about, shows talent in playing the piano, the protagonist of Marathon also demonstrates great talent—specifically in running.
+
+<img src="./park_sebin_img.png” alt=“image depicting Savant Syndrome, Developmental Disability” style="width:25%;” />

@@ -17,3 +17,4 @@ This ironic pairing of upbeat music and psychological distress reflects the film
 
 Example: The similar hardship is described in Alban Berg's 1925 Opera [*Wozzeck*](jang_geunyeong.md). Both works use music to reveal the hidden nature of mental illness, contrasting surface normalcy with underlying psychological collapse.
 
+<img src="./han_yeonsoo_img.png" alt="description" style="width:25%;" />

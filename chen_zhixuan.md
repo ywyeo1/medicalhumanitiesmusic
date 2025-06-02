@@ -17,4 +17,4 @@ This film tells the story of John Nash, a mathematical genius at Princeton Unive
 
 The same disease is described in Noh Heekyung's 2014 drama [*It's Okay, Taht's Love!*](do_gwanwoo.md). The drama Davichi's hit song "It's Okay, That's Love"
 
-<img src="./Chen_Zhixuan_img.png.png" alt="image depicting Delusional Schizophrenia" style="width:25%;" />
+<img src="./Chen_Zhixuan_img.png.png" alt="image depicting Delusional Schizophrenia" style="width:35%;" />

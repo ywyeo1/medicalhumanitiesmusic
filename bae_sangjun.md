@@ -19,4 +19,4 @@ The ost 'Not Alone' by HYNN delicately reflect the emotional struggles of depres
 
 A similar example is discussed in [*The End of the F***ing World*](park_dahyun.md). That piece also explores emotional numbness and isolation through minimalistic music. In particular, the restrained vocals and repetitive guitar riffs reflect the psychological detachment of the character James, resonating with the themes of burnout and depression seen in *Doctor Slump*.
 
-<img src="./Bae_sangjun_img.png" alt="image depicting dysthymic disorder" style="width:25%;" />
+<img src="./bae_sangjun_img.png" alt="image depicting dysthymic disorder" style="width:25%;" />

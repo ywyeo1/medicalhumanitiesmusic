@@ -16,3 +16,5 @@ Although the lyrics do not directly describe visual impairment itself, they inst
 Another key point is that the entire OST flows in line with the reconciliation between the brothers and the growth of the main character toward the end of the film. Therefore, it conveys a hopeful perspective on life after illness with the atmosphere of [“Everything will be okay now.”](https://youtu.be/C271IWMrvQo?si=ioxZgeQs8xSFISQF)
 
 Example: The same disease is described in Park dongjin’s 19th century korean traditional sounds [*Simcheongga*](ahn_ryeogyeong.md). The korean traditional sounds Park dongjin's pansori hit song “Sim cheong’s Milk-Begging Journey.”
+
+<img src="./park_jihyun_img.PNG" alt="image depicting visual disturbance" style="width:25%;" />

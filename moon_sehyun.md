@@ -16,3 +16,7 @@ In the movie, Beethoven's Moonlight Sonata (3rd Movement) is used when Jin-tae f
 
 
 I felt a sense of similarity between the work I selected and the storyline of [My Annoying brother](kim_yesung.md) in that both portray “reconciliation between siblings through music.” In both works, music effectively expresses the conflict within the family caused by disability, and the way family members begin to see each other as people—as family—beyond the disability.
+
+[This](https://www.youtube.com/watch?v=uNRvJujw7ws) is the piano performance scene I described from the film.
+
+<img src="./moon_sehyun_img.jpg" alt="description" style="width:25%;" />

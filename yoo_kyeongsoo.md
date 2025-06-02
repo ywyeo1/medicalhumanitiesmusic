@@ -10,7 +10,7 @@ Type: Classical
 ---
 
  # Copying Beethoven
- At the time of composing the Ninth Symphony, Beethoven was almost completely deaf.
+ At the time of composing the [Ninth Symphony](https://www.youtube.com/watch?v=RbWmav17OEA), Beethoven was almost completely deaf.
 He struggled with isolation and frustration, yet his creative spirit remained strong.
 Despite his condition, he composed entirely through inner hearing and determination.​
  

@@ -15,4 +15,4 @@ Elmer Bernstein’s main theme in To Kill a Mockingbird is composed of a simple 
 
 Example: The same disease is desribed in Barry Levinson's 1988 film [*Rain Man*](ahn_ire.md). The film contains Hans Zimmer's "Leaving Wallbrook - On the Road." The piece reflects the emotional complexity of living with autism, echoing the internal struggles and moments of clarity experienced by the protagonist.
 
-<img scr="./ha_jeonghyeon_img.jpg"alt="image describing autism related movie" style="width:35%;"/>
+<img scr="./ha_jeonghyeon_img.jpg" alt="image describing autism related movie" style="width:35%;" />

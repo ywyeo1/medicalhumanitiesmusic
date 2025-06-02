@@ -16,3 +16,5 @@ This film tells the story of John Nash, a mathematical genius at Princeton Unive
 [In one of the film's most memorable scenes! ](https://youtu.be/tvO_78fajxY?si=em-IIRiOn_t_ui1R).,The song's monotonous, repetitive piano melody symbolizes protagonist John Nash’s sense of isolation as he becomes trapped in hallucinations and delusions. The dissonance of the strings highlights his chaotic thoughts and mental instability, while the gradual build-up of the music narratively expresses the worsening of his condition.
 
 The same disease is described in Noh Heekyung's 2014 drama [*It's Okay, Taht's Love!*](do_gwanwoo.md). The drama Davichi's hit song "It's Okay, That's Love"
+
+<img src="./Chen_Zhixuan_img.png.png" alt="image depicting Delusional Schizophrenia" style="width:25%;" />

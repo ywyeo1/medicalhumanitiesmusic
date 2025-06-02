@@ -19,4 +19,4 @@ I felt a sense of similarity between the work I selected and the storyline of [M
 
 [This](https://www.youtube.com/watch?v=uNRvJujw7ws) is the piano performance scene I described from the film.
 
-<img src="./moon_sehyun_img.jpg" alt="description" style="width:25%;" />
+<img src="./moon_sehyun_img.png" alt="description" style="width:25%;" />

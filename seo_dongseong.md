@@ -18,4 +18,4 @@ Gentle piano refers to a musical technique where soft and delicate piano melodie
 This gentle piano style is prominently featured in both The Theory of Everything and [*Untouchable*](heo_taeyoung.md), expressing the characters’ vulnerability, inner strength, and the beauty of life with sensitivity.
 In [*Untouchable*](heo_taeyoung.md), Ludovico Einaudi’s “Fly” is a prime example, using gentle piano to warmly and hopefully depict moments when the protagonists forget about disability and fully enjoy their sense of freedom.
 
-<img src="./seo_dongseong_img.png" alt="description" style="width:25%;" />
+<img src="./seo_dongseong_img.png" alt="image of Stephen Hawking as suffering from ALS." style="width:60%;" />

@@ -17,4 +17,4 @@ The film’s main theme, which features a simple, cyclical piano figure, grows i
 
 This film [*To kill a Mockingbird*](ha_jeonghyeon.md) does not deal with ALS, but it deals with physical disorders, but it is confirmed that it is a disorder related to the nervous system in common, so the content will also be helpful in dealing with the disease I described.
 
-<img src="./Lee_JunHee_img" alt="image depicting ALS" style="width:25%;" />
+<img src="./Lee_JunHee_img.png" alt="image depicting ALS" style="width:25%;" />

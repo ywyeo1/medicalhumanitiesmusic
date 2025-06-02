@@ -17,3 +17,4 @@ The Legend of 1900 (1998) is a film directed by Giuseppe Tornatore, depicting th
 
 Example：The same disease is described in Mamoru Hosoda's 2021 film [*The Dragon and the Freckled Princess*](huh_yejin.md) The film Belle's hit song ＂A Milloin Miles Away.＂
 
+<img src="./zhou_yu_img.png" alt="image depicting social anxiety disorder" style="width:25%;" />

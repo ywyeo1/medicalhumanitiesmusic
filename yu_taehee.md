@@ -16,6 +16,6 @@ Ruby is torn between her deaf parents and the responsibility of protecting the o
 
 Example: A movie similar to CODA is Sound of Metal (2019).Both films center around deafness and explore themes of identity and community through the experience of losing or living without sound. They also share a commitment to authentic representation, including casting deaf actors in key roles.
 
-
+<img src="./yu__taehee_img.png" alt="description" style="width:25%;" />
 
 

@@ -21,4 +21,4 @@ The piece *"Lit"*, featured in *A Silent Voice*, sonically embodies the protagon
 > 📎 Related content:  
 > *[Silenced](./Silenced.md)* likewise employs music to portray the pain of hearing-impaired individuals, though through a more somber, orchestral approach. Both works demonstrate how sound—or its intentional absence—can reflect emotional distance and highlight the importance of empathy and social awareness.
 
-<img src="./lim_seokhyeon.JPG" alt="An illustration expressing hearing impairment and emotional isolation through music" style="width:40%;" />
+<img src="./lim_seokhyeon_img.JPG" alt="An illustration expressing hearing impairment and emotional isolation through music" style="width:40%;" />

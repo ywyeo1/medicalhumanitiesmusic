@@ -17,4 +17,4 @@ Type: Rock
  
 Example: The story portrays a narrative similar to [*Bohemian Rhapsody*](kwak_junyeong.md), in that the character continues to suffer from illness but does not despair over their situation. Instead, they persistently strive to achieve their goals without giving up, even if a cure is unattainable.
 
-<img src="./jeong_heeseok_img.png" alt="This image depicts two contrasting scenes. On the left, an ambulance stands on a dark, cold road, with a man suffering from illness reflected in the sky. On the right, in the warmth of the sunset, two men are walking together, and the sky shows them smiling and conversing." style="width:40%;" />
+<img src="./jeong_heeseok_img.png" alt="This image depicts two contrasting scenes. On the left, an ambulance stands on a dark, cold road, with a man suffering from illness reflected in the sky. On the right, in the warmth of the sunset, two men are walking together, and the sky shows them smiling and conversing." style="width:80%;" />

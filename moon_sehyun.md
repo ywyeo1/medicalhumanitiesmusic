@@ -4,7 +4,7 @@ Genre: Film
 Creator: Sung-Hyun Choi
 Disability: Autism Spectrum Disorder
 ICD: 6A02
-Music: Moonlight Sonata, 1st Movement
+Music: Moonlight Sonata, 3rd Movement
 Composer: Ludwig van Beethoven
 Type: Classical
 ---

@@ -17,4 +17,4 @@ The ballad featured in the drama It’s Okay, [That’s Love delicately portrays
 
 This method of expressing psychological distress and emotional depth through music is closely related to the film Marathon, which I analyzed separately.[*It's Okay, That's Love*](do_gwanwoo.md) Although Marathon deals with autism—a different subject—it shares a common approach in using music to reveal the protagonist’s inner world. In particular, the piece Run, Cho-won communicates Cho-won’s emotions without words, allowing the audience to feel his experience. The music functions not just as background, but as a narrative device that adds depth to the character’s emotional arc.
 
-
+<img src="./kim_taehee_img.png" alt="image description autism spectrum disorder" style="width:40%;" />

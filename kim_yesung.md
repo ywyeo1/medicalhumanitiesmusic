@@ -17,4 +17,4 @@ Director Kwon Soo-kyung’s film My Annoying Brother (2016) tells the story of K
 
 The same disease is described in Song Manjae's early 19th century film [*Simcheongga*](ahn_ryeogyeong.md). This emotional arc parallels that of the traditional Korean pansori Simcheongga, compiled by Song Manjae in the early 19th century. In Simcheongga, the blind father, Sim Bong-sa, is eventually reunited with his daughter Sim Cheong, whose sacrifice brings about healing and joy. Just as Sim Cheong’s return restores her father’s sight and their relationship, the samba scene in My Annoying Brother represents a modern reflection of the same core themes—disability, sacrifice, reunion, and love. Through its modern setting and emotional music, the film reinterprets timeless Korean values of family, endurance, and reconciliation, bridging the past and present in a touching and meaningful way.
 
-<img src="./kim_yesung_img.png.PNG" alt="image depicting blindness" style="width: 25%;" />
+<img src="./kim_yesung_img.png.PNG" alt="image depicting blindness" style="width: 50%;" />

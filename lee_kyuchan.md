@@ -15,4 +15,4 @@ This piece of music embraces Choi-won's innocence and persistent spirit with a b
 
 For example This Flim is also a good representation of a characteristic of people with autism, which is that they feel calmer when they do one repetitive activity [Rain Man](ahn_ire.md). 
 
-
+<img src="./lee_kyuchan_img.md" alt="Image depicting Autism" style="width:25%;" />

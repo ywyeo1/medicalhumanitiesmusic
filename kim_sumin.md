@@ -1,12 +1,12 @@
 ---
-year: 1886
-genre: novel
-creater: Rober Louis Stevenson
-disability: dissociative identity disorder
+Year: 1886
+Genre: novel
+Creater: Rober Louis Stevenson
+Disability: dissociative identity disorder
 ICD: 6B64
-music: this is the moment
-composer: Frank Wildhorn
-type: musical OST
+Music: this is the moment
+Composer: Frank Wildhorn
+Type: musical OST
 ---
 
 # strange case of Dr.Jekyll and Mr.Hyde

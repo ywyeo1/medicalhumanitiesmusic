@@ -28,3 +28,5 @@ The lyrics and melody convey resolution and inspiration, but they also hint at J
 In this way, “This is the Moment” does not merely represent a turning point for Jekyll—it is the symbolic birth of Hyde.
 
 Example: A similar disease(mental disorder) is described in Belle's 2021 film [*The Dragon and the Freckled Princess*](huh_yejin.md). Both social and multi-personality disorders have in common that they have difficulty maintaining daily interpersonal relationships.
+
+<img src="./kim_sumin_img.PNG" alt="image depicting dissociative disorder" style="width:35%;" />

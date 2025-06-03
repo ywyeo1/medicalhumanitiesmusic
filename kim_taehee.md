@@ -9,7 +9,7 @@ Composer: Kim Joon-sung
 Type: Instrumental
 ---
 
-# 말아톤(film maraton)
+# maraton
 
 “Run, Cho-won” is used in the film's climactic and final marathon scene, depicting a pivotal moment when the protagonist, Cho-won, who is on the autism spectrum, overcomes his physical and emotional limitations. Composer Kim Jun-sung uses a delicate blend of piano and strings to portray Won's inner thoughts. In the opening, a cautious, hesitant melody expresses Won's anxiety and focus, and as the scene unfolds and Won finds his rhythm, the music expands into warm, lush string harmonies that convey a sense of emotional release.
 This musical development is closely synchronized with the flow of the visuals. As Won runs the final stretch and is cheered on by his mother, the music gradually builds to a crescendo as he completes the marathon, heightening the emotional moment. In this scene, the music represents not just success, but the possibility of doing the impossible. The music doesn't package Meadow as “special” or make him an object of pity, but shows his emotions in a genuine and sensitive way.

@@ -18,4 +18,4 @@ After each brief musical cue, the film pulls back into a split-screen montage: F
 
 In musical Notre-Dame de Paris, Quasimodo’s body crystallises into one grotesque mass, so [*hyper-visible*](kim_hyoju.md) that every gaze must collide with its “monstrous” excess. Joe’s body, by contrast, scatters into erotic shards—encountered by herself and by others only as isolated acts or organs—so that no coherent figure ever comes into focus. One body is oppressively present, pinned to a single outline; the other is perpetually absent, dissolved into the promise of pleasure. Together they trace the two poles of deviant embodiment.
 
- <img src="./파일명.확장자" alt="설명(영어로 작성할 것)" style="width:25%;" />
+ <img src="./jang_seongwon_img.png" alt="설명(영어로 작성할 것)" style="width:35%;" />

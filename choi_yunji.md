@@ -17,4 +17,6 @@ Type: band music
 
 Example: The similar disease is described in Josh Boone's 2014 film [*The Fault in Our Stars*](lee_minji.md). The film Ed Sheeran's hit song "All of the Stars"
 
+<img src="./choi_yunji_img.png" alt="description" style="width:25%;" />
+
 

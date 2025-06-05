@@ -17,3 +17,4 @@ Type: pop
 Example : The same disease is discribed in In Shik Yoo's 2022 drama [*Weird lawyer Woo Youngwoo*](park_hyowon.md). A hit song from the drama "Weird Lawyer Woo Young-woo” is Beyond My Dreams.
 
 <img src="./kim_jaehee_img.PNG" alt="description" style="width:25%;" />
+ 

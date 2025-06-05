@@ -18,4 +18,4 @@ Despite his condition, he composed entirely through inner hearing and determinat
 
 Both A [*Silent Voice*](Lim_seokhyeon) and Copying Beethoven center on characters who are deaf, using this condition not just as a physical trait, but as a powerful metaphor. In A Silent Voice, Shoko’s deafness symbolizes emotional isolation and the social barriers that prevent genuine connection. In Copying Beethoven, Beethoven’s deafness contrasts with the beauty of the music he creates, highlighting how inner expression can transcend physical limitation. In both stories, deafness challenges communication but also deepens it—forcing others to truly listen, not with their ears, but with empathy and understanding.
 
-<img src="./yoo_kyeongsoo.img.png" alt="image depicting deaf" style="width:25%
+<img src="./yoo_kyeongsoo.img.png" alt="image depicting deaf" style="width:25%;" />

@@ -2,7 +2,7 @@
 Year : 1988
 Genre: Film
 Creator: Barry Levinson
-Disease: Savant Syndrome,autism
+Disease: Savant Syndrome, Autism
 ICD: 6A02
 Music: They Can’t Take That Away from Me
 Composer: George Gershwin, Ira Gershwin

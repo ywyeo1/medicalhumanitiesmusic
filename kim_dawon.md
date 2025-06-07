@@ -15,3 +15,5 @@ Type: Pop
 Additionally, this music can be seen in episode 4 when Woo Young-woo is emotionally focused while looking at a whale painting.
 
 Example: The same disease is described in Barry Levinson's 1988 film [*Rain Man*](ahn_ire.md). The film Hans Zimmer's song "Leaving Wallbrook - On the Road".
+
+<img src="./kim_dawon_img.png" alt="image depicting ASD" style="width:25%;" />

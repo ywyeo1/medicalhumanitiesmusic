@@ -20,5 +20,5 @@ Will’s decision to pursue assisted death stemmed not only from his physical co
 
 Example: The same disease is describe in Olivier Nakache's 2011 film [*Untouchable*](heo_taeyoung.md). The film Ludovico Einaudi
 's hit song "Fly".
-
- <img src="./kim_mingjung_img.png" alt="image depicting quadriplegia" style="width:25%;">
+ 
+<img src="./kim_minjung_img.png" alt="image depicting quardriplegia" style="width:25%;" />

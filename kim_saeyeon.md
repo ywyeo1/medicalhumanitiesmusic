@@ -17,4 +17,9 @@ La Traviata and Wozzeck are in the same opera genre [*Wozzeck*](jang_geunyeong.m
 Both Wozzeck and Addio del passato use contrasting musical languages to depict psychological or physical decay, drawing the audience into the characters' inner worlds through distorted structures and emotionally charged soundscapes.
 Both Wozzeck and Addio del passato musically depict human suffering and tragedy through the themes of mental collapse and the fading of life, respectively.
 
+La Traviata is a tragic opera by Verdi about Violetta, a Parisian courtesan who gives up everything for love. When pressured by society and Alfredo’s father, she sacrifices her happiness, and as her illness worsens, she dies alone, reflecting on her past.
+
+In the aria “Addio del passato”, Violetta sings a tender farewell to life and love. The fragile melody and delicate rhythm mirror her fading strength, evoking deep sorrow and the fleeting nature of happiness — like a breath dissolving into silence.
+
+
 <img src="./kim_saeyeon_img.png" alt="image depicting opera" style="width:25%;" />

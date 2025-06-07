@@ -17,4 +17,5 @@ The similar condition, psychological trauma, is explored in Shin Bomin’s analy
 
 Likewise, [Beethoven Virus portrays characters dealing with hearing loss and deep psychological wounds.](https://youtu.be/cep8Ru4TL4k?si=RJ6CZzAS0lDtlUtG) Beethoven’s Symphony No. 9 acts as a powerful emotional medium, helping the characters confront their inner turmoil and find healing through music. Both works highlight how music can uncover buried trauma and serve as a path toward emotional restoration. 
 
-![image](https://github.com/user-attachments/assets/bc39e181-8e1c-44c4-aa46-15708ebb733f)
+<img src="./park_jinpyo_img.png" alt="image depicting Beethoven" style="width:25%;" />
+

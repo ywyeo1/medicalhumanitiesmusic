@@ -17,4 +17,4 @@ Type: Classical
 
 Example: It's not exactly the same disease, but a similar disease is depicted in Mamoru Hosoda's 2021 musical [Belle: The Dragon and the Freckled Princess](huh_yejin.md). The musical is about overcoming trauma through a song called "A Million Miles Away", centering on a woman who suffered the trauma of losing her mother due to a childhood accident.
 
-<img src="./lee_shinbeom_img.jpg" alt="description" style="width:25%;" />
+<img src="./lee_shinbeom_img.jpg" alt="image depicting anxiety disorder" style="width:25%;" />

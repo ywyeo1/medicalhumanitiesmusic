@@ -16,3 +16,5 @@ Type: Classical
 La Traviata and Wozzeck are in the same opera genre [*Wozzeck*](jang_geunyeong.md).
 Both Wozzeck and Addio del passato use contrasting musical languages to depict psychological or physical decay, drawing the audience into the characters' inner worlds through distorted structures and emotionally charged soundscapes.
 Both Wozzeck and Addio del passato musically depict human suffering and tragedy through the themes of mental collapse and the fading of life, respectively.
+
+<img src="./kim_saeyeon_img.png" alt="image depicting opera" style="width:25%;" />

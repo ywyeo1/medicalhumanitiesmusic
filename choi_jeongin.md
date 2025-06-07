@@ -15,4 +15,4 @@ In the film, the protagonist, Intae, has savant syndrome and possesses a genius-
 
 I thought this work was similar to mine because it also showed how music is used in a story about overcoming and growing. Mamoru Hosoda's 2021 musical [*Belle : The Dragon and the Freckled Princess](huh_yejin.md). The musical Belle's A Million Miles Away
 
-<img src="./choi_jeongin_img.png" alt="image depicting AIDS" style="width:25%;" />
+<img src="./choi_jeongin_img.png" alt="image depicting AIDS" style="width:40%;" />

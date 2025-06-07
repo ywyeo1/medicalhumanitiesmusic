@@ -17,4 +17,4 @@ The same disease, in [the same film](kwak_junyeong.md), is described with differ
 
 Park Sang Young's 2024 film [*Love in the Big City*](yum_jihyeon.md) also describes HIV infection. Through SURAN's music "Erotic Joke", the writing deals with the social suffering of HIV.
 
-<img src="./park_kiryun_img.jpg" alt="description" style="width:25%;" />
+<img src="./park_kiryun_img.jpg" alt="image depicting how the film Bohemian Rhapsody describes AIDS" style="width:25%;" />

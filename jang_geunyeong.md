@@ -2,16 +2,16 @@
 Year: 1925
 Genre: Opera
 Creator: Alban Berg
-Birth and death date: 1885/02/09-1935/12/24
-Disease: Mental Illniss
 ICD: SD8Z
 Periodic Background: After World War 1
 Type: Classic
+Birth and death date: 1885/02/09-1935/12/24
+Disease: Mental Illniss
 ---
 
 # Wozzeck
 
-In Wozzeck, Alban Berg employs dissonance, atonality, and fragmented rhythmic patterns to portray the protagonist’s mental collapse. The use of the twelve-tone technique, which avoids any sense of traditional harmony or resolution, reflects the character’s loss of stability and growing detachment from reality. Berg also structures scenes using formal musical forms—such as passacaglia and inventions—but distorts them, reinforcing the idea of a world that appears ordered on the surface yet is fundamentally broken. Through these methods, the music does more than accompany the narrative; it becomes a powerful psychological lens, pulling the audience directly into Wozzeck’s disoriented and unraveling mind.
+In Wozzeck, Alban Berg employs dissonance, atonality, and fragmented rhythmic patterns to portray the protagonist’s mental collapse. The use of the twelve-tone technique, which avoids any sense of traditional harmony or resolution, reflects the character’s loss of stability and growing detachment from reality. Berg also structures scenes using formal musical forms—such as passacaglia and inventions—but distorts them, reinforcing the idea of a world that appears ordered on the surface yet is fundamentally broken. A passacaglia, traditionally built on a repeating bass line or harmonic progression, is used by Berg not to establish stability, but to emphasize the obsessive, cyclical nature of Wozzeck’s torment. Similarly, the invention—a contrapuntal form associated with clarity and logic in Baroque music—is twisted into a vehicle for confusion and psychological fragmentation. Through these methods, the music does more than accompany the narrative; it becomes a powerful psychological lens, pulling the audience directly into Wozzeck’s disoriented and unraveling mind.
 
 _[Wozzeck](https://youtu.be/MdN-9JAtCdo?si=TArwn3FBEUoWd-1t)_
 

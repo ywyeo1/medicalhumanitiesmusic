@@ -15,5 +15,6 @@ In the 1940s, when World War II was in full swing, a sudden plague broke out in 
 
 The similar desease is described in Park Sang Young's 2024 drama [*The Love Law of Big city*](yum_jihyeon.md) The drama suran song "Erotic Joke"
 
+<img src="./kim_jinhyeon_img.png" alt="image depicting La Peste" style="width:25%;" />
 
 

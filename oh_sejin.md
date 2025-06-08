@@ -9,7 +9,7 @@ Composer: Endor
 Type: house
 ---
 
-<img src="./oh_sejin_img_.jpg" alt="image depicting Autism" style="width :25%;" />
+<img src="./oh_sejin_img.jpg" alt="image depicting Autism" style="width :25%;" />
 
 # THE SUBSTANCE
 

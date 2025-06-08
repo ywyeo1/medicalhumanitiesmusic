@@ -16,7 +16,8 @@ In the 1940s, when World War II was in full swing, a sudden plague broke out in 
 The film adaptation’s theme song, “Psalmus Ode,” intensifies this sense of spiritual and emotional turmoil. Through its haunting choral progression and somber orchestration, the piece reflects the sacred silence of collective grief and the spiritual vacuum left by the plague. It is used in key scenes not merely to underscore sadness but to elevate the silent, resilient dignity of people confronting suffering without answers.
 
 The music avoids melodrama, instead echoing the existential tone of the novel—it does not portray illness as punishment or tragedy, but as a condition that reveals our shared vulnerability. Through the combination of image, story, and sound, The Plague delivers a powerful reflection on disease and disability—not as individual misfortune, but as a universal, inescapable part of being human.
-The similar desease is described in Park Sang Young's 2024 drama [*The Love Law of Big city*](yum_jihyeon.md) The drama suran song "Erotic Joke"
+
+Example : The similar desease is described in Park Sang Young's 2024 drama [*The Love Law of Big city*](yum_jihyeon.md) The drama suran song "Erotic Joke"
 
 <img src="./kim_jinhyeon_img.png" alt="image depicting La Peste" style="width:25%;" />
 

@@ -16,3 +16,5 @@ Similarly, in The Fall, the protagonist Roy is a stuntman who suffers a spinal i
 Through Beethoven's music, the film emotionally underscores Roy's suffering and his desire to reclaim agency in a life that seems hopeless. It conveys his disability not just as a medical condition, but as a deeply layered emotional and existential crisis. Ultimately, the music becomes a voice for his silent struggle—a journey through despair, imagination, and the fragile hope of emotional recovery.
 
 Example: The similar disease(paralysis) is described in Olivier Nakache 2011 film [*The Intouchables*](kim_naeun.md). The piano music *'Una Martina'* of "The Intouchables" depicts the protagonist's physical disability in three dimensions, similar to the symphony of "The Fall". Both songs have similar atmospheres that reveal the bitter and empty heart of the protagonist and at the same time give hope in the heart.
+
+<img src="./park_yeonwoo_img.png" alt="description" style="width: 25%;" />

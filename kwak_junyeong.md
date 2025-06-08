@@ -16,3 +16,5 @@ In the movie Bohemian Rhapsody, Freddie's health is slowly hinted at throughout 
 [The climax of the film, the 1985 Live Aid concert](https://www.youtube.com/watch?v=QXbqiAZgeCE) actually happened before Freddie actually contracted AIDS, but the film dramatized it to be right after he was diagnosed with AIDS for dramatic effect, showing his determined appearance. So the film creates an emotional atmosphere that makes the Live Aid stage feel like the last dying flame in his life, not just a simple performance. Also, the song "Bohemian Rhapsody" was a song that was dismissed by a record company executive in the film as a "weird, six-minute song" saying, "Who would listen to this on the radio?", so the climax of the song synergizes with Freddie Mercury's illness to create an even more dramatic effect.
 
 In short, it shows the conflict over the song Bohemian Rhapsody, aka the trash song, and the dark personal conflict over Freddie Mercury's illness, and the climax is dramatic when the main character sings the legendary song 'Bohemian Rhapsody' at the last performance.
+
+<img src="./kwak_junyeong_img.png" alt="description" style="width:25%;" />

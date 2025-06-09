@@ -16,3 +16,6 @@ This piece of music embraces Choi-won's innocence and persistent spirit with a b
 For example This Flim is also a good representation of a characteristic of people with autism, which is that they feel calmer when they do one repetitive activity [Rain Man](ahn_ire.md). 
 
 <img src="./lee_kyuchan_img.png" alt="Image depicting Autism" style="width:25%;" />
+
+# Time To Say Goodbye
+우리는 삶의 문턱에 다다를 순간을 몹시 두려워도 합니다. 결국 사랑하는 사람들과 영원히 '이별'해야하는 것이 무섭기 때문입니다. 그러나 우리는 지금껏 살아오며 수많은 사람들과 이별을 하고 작별인사를 건내 왔습니다. 우리의 인생은 찬란했고 아름다웠습니다. 그런 우리의 마지막에 목 끝까지 찬 수많은 말들 대신, 사진 속 미소 띈 친구이자 가족이자 연인이었던 저에게 [작별인사를 건내고 마무리 했으면 좋다고 생각해 이 노래](https://youtu.be/M3mdHmhI3cs?si=BRFTXSbDh-sq31b4)를 선정했습니다.  

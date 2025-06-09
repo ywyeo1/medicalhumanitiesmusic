@@ -17,4 +17,4 @@ Composed by Ken’ichi Nishio,[the electronic score lit](https://youtu.be/a57-Kv
 
 The same disease is described in Sian Heder's 20121 film [*Coda*](yu_taehee.md). The film Joni Mitchell's hit song "Both Sides Now".
 
-<img src="./jin_guangxin_img.png" alt="image depicting AIDS" style="width: 50%;" />
+<img src="./jin_guangxin_img.png" alt="image depicting Hearing Impairment" style="width: 50%;" />

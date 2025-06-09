@@ -15,7 +15,7 @@ In "Keys to the Heart," music is not used to highlight Jin-tae's disability as a
 In the movie, Beethoven's Moonlight Sonata (3rd Movement) is used when Jin-tae first reveals his hidden talent by playing the piano. The piece’s calm and melancholic tone reflects Jin-tae’s isolated inner world and marks the moment when his brother Jo-ha begins to see him in a new light.
 
 
-I felt a sense of similarity between the work I selected and the storyline of [My Annoying brother](kim_yesung.md) in that both portray “reconciliation between siblings through music.” In both works, music effectively expresses the conflict within the family caused by disability, and the way family members begin to see each other as people—as family—beyond the disability.
+I felt a sense of similarity between the work I selected and the storyline of [My Annoying brother](kim_yesung.md) in that both portray “reconciliation between siblings through music.” Both films effectively convey the emotional changes between brothers through instrumental music, without relying on lyrics. However, the film "Keys to the Heart", which I introduced, places music at the center of its narrative, thereby emphasizing the theme of reconciliation through music more strongly. In contrast, "My Annoying Brother" uses music mainly as background accompaniment, making its narrative role less prominent in comparison.
 
 [This](https://www.youtube.com/watch?v=uNRvJujw7ws) is the piano performance scene I described from the film.
 

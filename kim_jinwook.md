@@ -26,7 +26,7 @@ but the music 'Leaving Wallbrook - On the Road' shows disability of the protagon
 <img src="./kim_jinwook_img.png" alt="description" style="width:25%;" />
 
 ## 내 장례식에서 연주되길 희망하는 음악
-내 장례식에는 ['W.Bolcom, Graceful Ghost Rag'](https://www.youtube.com/watch?v=Ico2EmLXjj4)이라는 곡이 연주되었으면 좋겠습니다.
+내 장례식에는 ['W.Bolcom, Graceful Ghost Rag'](https://www.youtube.com/watch?v=Ico2EmLXjj4)이 연주되었으면 좋겠습니다.
 이 곡은 작곡가 볼컴이 돌아가신 아버지를 그리워하면서 작곡한 곡으로 알려져있습니다.
 어느날 볼컴은 자신의 어린시절에 가지고 놀던 게임기를 찾게됩니다.
 그 게임기에는 레이싱게임이 들어있었습니다. 그 레이싱게임은 볼컴이 아버지와 함께 즐겼던 게임인데요, 

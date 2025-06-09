@@ -19,3 +19,8 @@ While the song is brief, it encapsulates the film’s emotional essence. However
 Example : The same diesaese described in Noh Hee-kyung's 2014 drama [*it's Okay, That's love*](yoon_sooim.md)
 
 <img src="./lee_eunbi_img.png" alt="image depicting Schizophrenia" style="width:25%;" />
+
+
+[Erik Satie – Gymnopédie No.1](https://youtu.be/S-Xm7s9eGxU)
+This piece has a slow and gentle melody that feels like it momentarily pauses the flow of time. Rather than evoking intense sadness, it offers a quiet sense of comfort and acceptance. I chose this music because I believe it can bring peace and calm to those present at my funeral, creating an atmosphere of quiet reflection. I hope this piece will help my final moments be remembered with warmth and serenity.
+

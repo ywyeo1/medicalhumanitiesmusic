@@ -19,6 +19,6 @@ which also deals with hearing impairment and uses music to portray emotional iso
 The piece *"Lit"*, featured in *A Silent Voice*, sonically embodies the protagonist's experience of an unstable world through soft and repetitive piano melodies. Rather than presenting a distinct rhythm or melody, the piece delicately arranges fragile and cautious tones to convey the isolation and disconnection felt in a soundless world.
 
 > 📎 Related content:  
-> *[Silenced](./Silenced.md)* likewise employs music to portray the pain of hearing-impaired individuals, though through a more somber, orchestral approach. Both works demonstrate how sound—or its intentional absence—can reflect emotional distance and highlight the importance of empathy and social awareness.
+> *[Silenced](ryu_seungwon.md)* likewise employs music to portray the pain of hearing-impaired individuals, though through a more somber, orchestral approach. Both works demonstrate how sound—or its intentional absence—can reflect emotional distance and highlight the importance of empathy and social awareness.
 >
 > <img src="./lim_seokhyeon_img.JPG" alt="image depicting hearing loss" style="width:50%;" />

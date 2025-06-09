@@ -6,7 +6,7 @@ Disease: Spinocerebellar Degeneration
 ICD: G11.9
 Music: Only Human
 Singer: K
-Type: pop
+Type: J‑POP
 ---
 
 # One Litre of Tears

@@ -10,8 +10,9 @@ Type: New Age Music
 ---
 
 # Marathon
+This piece of music captures Choi-won’s innocence and unwavering spirit through a bright and uplifting atmosphere, creating an emotional bridge between him and the audience. The repetitive melody and gradually ascending harmonies metaphorically illustrate his journey of slowly opening up and connecting with the world around him.
 
-This piece of music embraces Choi-won's innocence and persistent spirit with a bright and uplifting atmosphere, reaching out to the audience. In particular, the repetitive melody and ascending harmonies metaphorically depict Choi-won’s gradual process of connecting with the world. [The five-minute-plus score, “Run, Chowon,” which plays during Chowon's (Cho Seung-woo) Chuncheon marathon scene, is the most dramatic and standalone (unrelated to the movie).](https://youtu.be/6nM9hL95LzA?si=pFjQp4X-W6ni9pBb) In this scean, The music serves not as a portrayal of disability as a flaw to be overcome, but as a gateway to revealing the unique world Choi-won possesses.
+The over-five-minute track, “Run, Chowon,” plays during Choi-won’s (played by Cho Seung-woo) marathon in Chuncheon and stands out as one of the film’s most dramatic and emotionally resonant pieces, despite being somewhat detached from the narrative structure. In this scene, the music doesn’t frame disability as something to be overcome—instead, it serves as a window into Choi-won’s unique inner world. [The marathon becomes a space where he expresses himself freely, guided not by external expectations but by his own rhythm and perception.](https://youtu.be/6nM9hL95LzA?si=pFjQp4X-W6ni9pBb) The score elevates this emotional climax, allowing the audience to fully immerse themselves in Choi-won’s perspective and the quiet triumph of his personal journey.
 
 For example This Flim is also a good representation of a characteristic of people with autism, which is that they feel calmer when they do one repetitive activity [Rain Man](ahn_ire.md). 
 

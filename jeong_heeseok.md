@@ -18,3 +18,6 @@ Type: Rock
 Example: The story portrays a narrative similar to [*Bohemian Rhapsody*](kwak_junyeong.md), in that the character continues to suffer from illness but does not despair over their situation. Instead, they persistently strive to achieve their goals without giving up, even if they know that they will die in suffer.
 
 <img src="./jeong_heeseok_img.png" alt="This image depicts two contrasting scenes. On the left, an ambulance stands on a dark, cold road, with a man suffering from illness reflected in the sky. On the right, in the warmth of the sunset, two men are walking together, and the sky shows them talking with smile." style="width:80%;" />
+
+[*은혜*](https://youtu.be/479FPxstEWA?si=F11P6V3KcJDcFQs1)
+찬양 작곡가이기도 한 손경민 목사가 만든 밴드 음악들 중 하나로 어린 시절, 선택의 순간들 등 자신이 살아왔던 모든 삶의 순간들을 떠올리는 가사들로 이루어져 있으며, 후렴 중 "내 삶에 당연한 건 하나도 없었던 것을, 모든 것이 은혜 은혜였소" 라고 모든 것을 하나님께 영광 돌리는 가사가 감명깊다.

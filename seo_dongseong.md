@@ -20,3 +20,6 @@ This gentle piano style is prominently featured in both The Theory of Everything
 In [*Untouchable*](heo_taeyoung.md), Ludovico Einaudi’s “Fly” is a prime example, using gentle piano to warmly and hopefully depict moments when the protagonists forget about disability and fully enjoy their sense of freedom.
 
 <img src="./seo_dongseong_img.png" alt="image of Stephen Hawking as suffering from ALS." style="width:28%;" />
+
+
+--14주차 과제 ( 한글로 한문단 이유적고 유튜브 링크 작성 ) 

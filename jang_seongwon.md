@@ -24,4 +24,4 @@ The fact that this inherently flawed metaphor is directed with such aesthetic pe
 
 In musical Notre-Dame de Paris, Quasimodo’s body crystallises into one grotesque mass, so [*hyper-visible*](kim_hyoju.md) that every gaze must collide with its “monstrous” excess. Joe’s body, by contrast, scatters into erotic shards—encountered by herself and by others only as isolated acts or organs—so that no coherent figure ever comes into focus. One body is oppressively present, pinned to a single outline; the other is perpetually absent, encountered only in fragments that refuse to add up to a person. Together they trace the two poles of deviant embodiment.
 
-[별 (이병기 시 / 윤학준 곡)](https://youtu.be/KvndHb9Zgqw?feature=shared)
+# [별 (이병기 시 / 윤학준 곡)](https://youtu.be/KvndHb9Zgqw?feature=shared)

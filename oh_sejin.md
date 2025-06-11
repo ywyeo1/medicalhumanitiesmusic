@@ -16,3 +16,5 @@ Type: house
 Example: In [*keys to the heart*](kim_jimin.md), though it is not the exact same condition, jintae’s psychological dissociation can be interpreted in relation to The Substance, in which the protagonist is split into two distinct identities, Elizabeth and Sue, exhibiting both physical and mental separation.
 
 <img src="./oh_sejin_img.png" alt="image depicting Body dysmorphic disorder" style="width :20%;" />
+
+I happened to come across [this video](https://youtube.com/shorts/frkHwJa698c?si=5Q0LdZinPF8TZANl) not long ago, and I thought that if a song were to be played at my funeral, I’d want it to be the one from the video, the song named Auld Lang Syne. I hope the people saying goodbye to me wouldn’t focus on anything else, but would grieve my passing with childlike purity and let me go with sincere hearts.

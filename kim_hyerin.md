@@ -21,7 +21,7 @@ In the latter part of the piece, the melody steadily rises, with more instrument
 
 No longer trapped in repetition, the melody now stretches outward, conveying a sense of forward motion and personal discovery. It symbolizes Auggie’s embrace of his uniqueness and the establishment of his identity.
 
-The similar disease is described in Michael Gracey’s 2017 film [*The Greatest Showman*](shin_minchul.md). The film’s song is “This Is Me”. It is similar in that it is a movie about people with physical deformities such as dwarfism, gigantism, and albinism.
+The similar disease is described in Michael Gracey’s 2017 film [*The Greatest Showman*](shin_minchul.md). The film’s song is “This Is Me”. It is similar in that it is a movie about people with physical deformities such as dwarfism, gigantism, and albinism. Another similarity is that the music in both films expresses the protagonists’ inner growth.
 
 <img src="./kim_hyerin_img.jpg" alt="image descripts Treacher Collins Syndrome" style="width:30%;" />
 

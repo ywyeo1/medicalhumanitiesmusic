@@ -25,3 +25,16 @@ The fact that this inherently flawed metaphor is directed with such aesthetic pe
 In musical Notre-Dame de Paris, Quasimodo’s body crystallises into one grotesque mass, so [*hyper-visible*](kim_hyoju.md) that every gaze must collide with its “monstrous” excess. Joe’s body, by contrast, scatters into erotic shards—encountered by herself and by others only as isolated acts or organs—so that no coherent figure ever comes into focus. One body is oppressively present, pinned to a single outline; the other is perpetually absent, encountered only in fragments that refuse to add up to a person. Together they trace the two poles of deviant embodiment.
 
 # [별 (이병기 시 / 윤학준 곡)](https://youtu.be/KvndHb9Zgqw?feature=shared)
+
+죽음은 남겨진 이들의 삶을 아프게 짓누른다. 그 깊은 침묵과 슬픔 속에서 헤어나오는 것은 언제나 어려운 일이다. 하지만 산 사람은 죽음의 시간에만 갇혀 있을 수 없다. 그들은, 본래 그들이 있던 자리로 돌아가야 한다. 나는 <별>이 그 막막한 귀환을 위한 다정한 이정표가 되길 바란다.
+
+**바람이 서늘도 하여 뜰 앞에 나섰더니 서산머리에 하늘은 구름을 벗어나고 / 산뜻한 초사흘달이 별 함께 나오더라**  
+땅에 묶였던 시선은 자연스레 하늘로 향한다. 억지로 끌어올린 시선이 아니다. 서늘한 바람을 느끼고 고개를 들어보니 그곳에 달과 별이 떠 있는, 지극히 자연스러운 흐름이다. 죽음이 주는 수직적 무게감에서 벗어나 아득하고 평화로운 지상 너머로 시선이 부드럽게 이동하는 것이다.
+
+**달은 넘어가고 별만 서로 반짝인다**  
+내 삶은 이제 서산 너머로 졌다. 하지만 세상은 끝나지 않았다. 달이 사라진 하늘에서 오히려 더 선명하게 빛나는 별들이 보인다. 남겨진 사람들, 그들 각자의 삶이 저마다의 빛으로 반짝이는 모습이다.
+
+**저 별은 뉘 별이며 내 별 또 어느 게요 / 잠자코 호올로 서서 별을 헤어 보노라**  
+별을 헤아리는 행위는 오직 살아있는 자만이 누릴 수 있는 특권이다. 그것은 계속해서 반짝여야 할 자기 삶의 자리를 되묻는 일이기도 하다. 이 질문은 남겨진 이들을 슬픔에서 벗어나게 한다. 그리고 마침내 삶으로 귀환하는 길로 그들을 이끌 것이다.
+
+그래서 이 음악은 장례식이 끝난 순간에 진짜 시작된다. 장례식에서 연주될 때는 그저 아름다운 위로일 뿐이다. 하지만 며칠 몇 달이 지난 어느 날 밤, 무심코 올려다본 하늘에서 별을 발견한 누군가가 서늘한 바람 속에서 이 노래를 기억해낼 때, 그때 비로소 음악은 그 사람의 마음속에서 완성될 것이다.

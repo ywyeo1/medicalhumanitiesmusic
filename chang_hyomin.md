@@ -20,8 +20,8 @@ A comparable use of music to portray progressive physical disability can be foun
 
 <img src="./chang_hyomin_img.png" alt="Image depicting emotional connection through quadriplegia" style="width:25%;" />
 
-# 장례식 음악
-“Remember Me” – from Coco (2017)
-죽음은 끝이라기보다, 누군가의 기억 속에 오래도록 남는 또 하나의 방식일지도 모른다. 그래서 나의 장례식에서는 Coco의 “Remember Me”가 조용히 흐르길 바란다.
-이 곡은 이별을 앞두고 “나를 기억해줘”라고 말하는 노래지만, 그 안에는 사랑, 감사, 그리고 따뜻한 위로가 담겨 있다. 내가 세상을 떠난 후에도, 나와 함께한 순간들이 누군가의 마음속에서 작은 노래처럼 남아 울렸으면 좋겠다.
-슬픔보다는 기억과 미소로 이별을 마주할 수 있도록, 이 곡이 마지막을 조용히 감싸주었으면 한다.
+# 장례식에서 연주되길 희망하는 음악
+“[Remember Me](https://www.youtube.com/watch?v=KP_XkN2v7OM&list=RDKP_XkN2v7OM&start_radio=1)” – from Coco (2017)
+내가 장례식에서 틀고 싶은 곡은 디즈니·픽사 애니메이션 『코코』의 삽입곡 “Remember Me”이다. 이 곡은 죽음을 다루면서도 슬픔보다 기억과 사랑의 지속성을 강조한다는 점에서 깊은 인상을 준다.
+“Remember Me”는 이별의 순간에 "나를 기억해줘"라고 말하는 노래로, 단순하고 반복적인 멜로디와 따뜻한 어쿠스틱 사운드가 조화를 이루며 차분한 위로의 정서를 전달한다. 장례식이라는 자리에서도 이 곡은 무겁지 않으면서도 함께했던 시간의 소중함을 자연스럽게 떠올리게 한다.
+내가 이 곡을 선택한 이유는, 나 역시 떠난 이후에도 소중한 사람들의 기억 속에 따뜻하게 남고 싶다는 바람 때문이다. 슬픔에만 머무르기보다는, 나와 함께한 순간들을 떠올리며 편안한 마음으로 이별을 맞이해주길 바라는 마음에서 이 음악이 어울린다고 생각했다.

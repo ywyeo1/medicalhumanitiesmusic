@@ -15,8 +15,7 @@ Beethoven Virus (2008, MBC) is a South Korean television drama centered on music
 
 The similar condition, psychological trauma, is explored in Shin Bomin’s analysis of David O. Russell’s 2012 film [*Silver Linings Playbook*](shin_bomin.md). The protagonist, who suffers from bipolar disorder, experiences intense emotional responses triggered by music—specifically, My Cherie Amour by Stevie Wonder. This reflects how certain sounds can evoke suppressed emotional pain.
 
-Likewise, Beethoven Virus portrays characters dealing with hearing loss and deep psychological wounds. Beethoven’s Symphony No. 9 acts as a powerful emotional medium, helping the characters confront their inner turmoil and find healing through music. Both works highlight how music can uncover buried trauma and serve as a path toward emotional restoration. 
+Likewise, [Beethoven Virus portrays characters dealing with hearing loss and deep psychological wounds.](https://youtu.be/cep8Ru4TL4k?si=RJ6CZzAS0lDtlUtG) Beethoven’s Symphony No. 9 acts as a powerful emotional medium, helping the characters confront their inner turmoil and find healing through music. Both works highlight how music can uncover buried trauma and serve as a path toward emotional restoration. 
 
-https://youtu.be/cep8Ru4TL4k?si=RJ6CZzAS0lDtlUtG
+<img src="./park_jinpyo_img.png" alt="image depicting Beethoven" style="width:25%;" />
 
-![image](https://github.com/user-attachments/assets/bc39e181-8e1c-44c4-aa46-15708ebb733f)

@@ -17,7 +17,7 @@ I thought this work was similar to mine because it also showed how music is used
 
 <img src="./choi_jeongin_img.png" alt="image depicting AIDS" style="width:40%;" />
 
-I think I’d play Toy’s “[A Farewell to Remember](https://www.youtube.com/watch?v=pBRZzsO3L3o)” at my funeral.
+I think I’d play Toy’s “[A Farewell to Remember(뜨거운 안녕)](https://www.youtube.com/watch?v=pBRZzsO3L3o)” at my funeral.
 Because I only want people who were truly close to me to be there—
 and I don’t want them to be sad.
 I hope they can just let go, coolly, and return to their own lives.

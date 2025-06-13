@@ -17,5 +17,7 @@ Anand Tucker's 1998 film [*Hilary and Jackie*](jin_zhiyuan.md) deals with multip
 
 <img src="./kim_minju_img.png" alt="image depicting the movie, the musics, and ALS" style="width:25%;" />
 
-## [The Beatles, Let It Be (1970)](https://youtu.be/QDYfEBY9NM4?si=n5-2M1cQM_qKCa8b)
+## 장송곡 골라보기 🌟
+[The Beatles, Let It Be (1970)](https://youtu.be/QDYfEBY9NM4?si=n5-2M1cQM_qKCa8b)
+
 그저 맞아들이고 흘려보내야 하는 것들이 있습니다. 죽음 또한 그 중 하나가 아닐까 해요. 까닭 없이 태어나 존재했듯이, 떠남 또한 자연스러운 일이겠지요. 모두가 그저 순환의 흐름 속에 위치할 뿐이니 말입니다. 하지만 회의든 필연이든 차치하고서, 아무리 미련 없는 생이었다 한들, 아쉽고 슬픈 마음이 드는 것 또한 어찌할 수 없는 일이겠습니다. 떠나는 자, 전송하는 자 모두에게요. 다만, 뒤에 남겨진 이들이 그 어떤 후회도 자책도 없이, 길게 이어질 이별을 온전히 받아들일 수 있다면 안심이겠어요. 그러니, 나의 삶은 아름다웠노라고, 당신께서는 마음 놓고 나아가시라고, 슬픔은 슬픔으로, 기쁨은 기쁨으로 느끼며, 어지러운 세상일지라도 구름처럼 살아가라고, 황혼의 문턱에서 한 줌의 위로를 건넬 수 있기를 소망하며 이 곡을 붙여봅니다.

@@ -16,3 +16,10 @@ In this film, the protagonist, Intae, has savant syndrome. Savant syndrome refer
 I thought this work was similar to mine because it also showed how music is used in a story about overcoming and growing. Mamoru Hosoda's 2021 musical [*Belle : The Dragon and the Freckled Princess](huh_yejin.md). The musical Belle's A Million Miles Away
 
 <img src="./choi_jeongin_img.png" alt="image depicting AIDS" style="width:40%;" />
+
+I think I’d play Toy’s “[A Farewell to Remember](https://www.youtube.com/watch?v=pBRZzsO3L3o)” at my funeral.
+Because I only want people who were truly close to me to be there—
+and I don’t want them to be sad.
+I hope they can just let go, coolly, and return to their own lives.
+The lyrics say goodbye, but the melody isn’t gloomy.
+I think that’s the kind of temperature I want in my relationships with people.

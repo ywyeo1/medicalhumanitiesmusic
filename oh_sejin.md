@@ -17,6 +17,6 @@ Example: In [*keys to the heart*](kim_jimin.md), though it is not the exact same
 
 <img src="./oh_sejin_img.png" alt="image depicting Body dysmorphic disorder" style="width :20%;" />
 
-# AULD LANG SYNE
+# 내가 장례식에서 나오기 희망하는 음악
 
-I happened to come across [this video](https://youtube.com/shorts/frkHwJa698c?si=5Q0LdZinPF8TZANl) not long ago, and I thought that if a song were to be played at my funeral, I’d want it to be the one from the video, the song named Auld Lang Syne. I hope the people saying goodbye to me wouldn’t focus on anything else, but would grieve my passing with childlike purity and let me go with sincere hearts.
+얼마 전 애니메이션 짱구는 못말려에서 짱구가 부르는 [석별의 정](https://youtube.com/shorts/frkHwJa698c?si=5Q0LdZinPF8TZANl)을 보게 되었는데, 이번 주제를 생각해보면서 이 노래가 내 장례식에서 나오거나 사람들이 불러주었으면 좋겠다고 생각했다. 이 노래는 듣기만 해도 이별의 감정이 차오르는 느낌을 주어서 이 주제와 잘 맞는것 같다. 내 장례식에서 사람들이 다른 것들은 생각하지 않고, 어린아이같이 순수하고 진정한 마음으로 나에게 작별인사를 해주었으면 좋겠다.

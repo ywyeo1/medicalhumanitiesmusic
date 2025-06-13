@@ -24,10 +24,12 @@ This way of expressing psychological pain and emotion is also deeply connected t
 
 자신의 장례식에서 연주되길 희망하는 음악-Le Festin - Disney Pixar's "Ratatouille" OST 
 
-[‘Le Festin’](https://youtu.be/E2Tj_CQDrk4?si=yR8IYDhyQWpJm0b6)은 조용하지만 단단한 느낌이 있어서, 내 삶을 잘 정리해주는 곡처럼 느껴진다.
+[‘Le Festin’](https://youtu.be/E2Tj_CQDrk4?si=yR8IYDhyQWpJm0b6)은 
+조용하지만 단단한 느낌이 있어서, 내 삶을 잘 정리해주는 곡처럼 느껴진다.
 혼자서도 충분히 괜찮았다는 걸 말해주는 듯해서, 마지막 인사로 어울린다고 생각했다.
 화려하진 않았지만 나름대로 의미 있었던 시간들이 떠오를 것 같아서,
-이 노래가 흐를 때 나를 아는 사람들이 조금은 따뜻하게 웃어줬으면 좋겠다는 마음에서 이 노래를 선정하게 되었다.
+이 노래가 흐를 때 나를 아는 사람들이 조금은 따뜻하게 웃어줬으면 좋겠다는 마음에서
+이 노래를 선정하게 되었다.
 
 
 

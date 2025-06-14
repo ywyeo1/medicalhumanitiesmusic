@@ -17,3 +17,5 @@ The music gives a warm and comfortable feeling through the soft acoustic guitar 
 <img src="./han_yoon_img.png.png" alt="description" style="width:25%;" /> 
 
 Example: The same disease is described in Hwan Min Oh's 2021 TV Drama [*Navillera*](yeo_inwook.md) The TV Drama Min Kim's song "My Day" is also a song that depicts the main character's Alzheimer's disease in the TV drama Navillera. My Day expresses the protagonist's willingness to challenge his past dreams in order to regain the memories of the past that are gradually disappearing.
+
+Oasis - whatever: The lyrics of this song convey a message that no matter what you do or say, it's okay, so live freely and don't live just showing what you want people to show. I chose this song because I wanted to convey this message to others. [*Whatever*](https://www.youtube.com/watch?v=ad9D41WzkEQ)

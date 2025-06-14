@@ -23,5 +23,7 @@ In [*Untouchable*](heo_taeyoung.md), Ludovico Einaudi’s “Fly” is a prime e
 
 <img src="./seo_dongseong_img.png" alt="image of Stephen Hawking as suffering from ALS." style="width:28%;" />
 
+---
+
 저의 장례식에 틀어졌으면 하는 음악은 [' Tyler, The Creator - ARE WE STILL FRIENDS? '](https://www.youtube.com/watch?v=VMFJwSR1MQQ&ab_channel=MinimalSounds)입니다.
 저와 친했던 모든 사람들에게 영원히 친구로 남았으면 하는 마음으로 선택하게 되었습니다. 

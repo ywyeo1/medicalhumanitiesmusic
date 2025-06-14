@@ -21,8 +21,10 @@ The ballad used in the drama [“It's Okay, It's Love”](do_gwanwoo.md) delicat
 
 This way of expressing psychological pain and emotion is also deeply connected to the film I analyzed, Malathon. Although Malathon has a different narrative, as it deals with autism, it has similarities in that it uses music to show the inner world of the protagonist. In particular, the interlude “Run to the Meadow” conveys to the audience what Won-woon is feeling without words, demonstrating that music functions as a narrative tool beyond just a background.
 
+---
 
-자신의 장례식에서 연주되길 희망하는 음악-Le Festin - Disney Pixar's "Ratatouille" OST 
+# 장례식에서 연주되길 희망하는 음악
+Le Festin - Disney Pixar's "Ratatouille" OST 
 
 [‘Le Festin’](https://youtu.be/E2Tj_CQDrk4?si=yR8IYDhyQWpJm0b6)은 
 조용하지만 단단한 느낌이 있어서, 내 삶을 잘 정리해주는 곡처럼 느껴진다.

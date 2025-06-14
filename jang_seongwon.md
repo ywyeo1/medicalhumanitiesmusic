@@ -11,7 +11,7 @@ Type: Classical
 
 # Nymphomaniac
 
-In the film Nymphomaniac, the story is about a woman named 'Joe.' After she is found hurt, she tells her life story to 'Seligman,' the man who rescued her. But it's more than just a memory. Whenever Joe tells a story, Seligman keeps trying to annotate it with his knowledge of things like fishing, mathematics, psychology or music. Their talk becomes a kind of smart argument, like a game of ping-pong: Joe shares her feelings, and Seligman replies with his logical ideas.
+In the film Nymphomaniac, the story is about a woman named 'Joe.' After she is found hurt, she tells her life story to 'Seligman,' the man who rescued her. Whenever Joe tells a story, Seligman keeps trying to annotate it with his knowledge of things like fishing, mathematics, psychology or music. Their talk becomes a kind of smart argument, like a game of ping-pong: Joe shares her feelings, and Seligman replies with his logical ideas.
 
 In [chapter 5 The Little Organ School](https://youtu.be/dIvuZ1bmrWs?si=IfHkbCZW3tDC15q7), Seligman starts the conversation with, “It's something I've been listening to a lot lately.” and introduces Bach’s chorale prelude <Ich ruf zu Dir, Herr Jesu Christ>. “This piece has three voices: the bass voice, the second voice played with the left hand, and first voice played with the right hand. (…) And together, these three voices create the polyphony.”
 Joe immediately maps her nymphomaniac experience onto this musical form. “Normally, a nymphomaniac is seen as... someone who can't get enough, and therefore, has sex with many different people. Well, that, of course, is true, but if I'm to be honest, I see it precisely as the sum of all these different sexual experiences. So in that way, I have only one lover.”

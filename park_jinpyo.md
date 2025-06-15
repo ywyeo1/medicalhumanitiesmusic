@@ -19,3 +19,5 @@ Likewise, [Beethoven Virus portrays characters dealing with hearing loss and dee
 
 <img src="./park_jinpyo_img.png" alt="image depicting Beethoven" style="width:25%;" />
 
+# 나의 장례식에서 연주되길 희망하는 음악
+[Travis Scott - FE!N ft. Playboi Carti](https://www.youtube.com/watch?v=B9synWjqBn8):"FE!N"은 무거운 슬픔에 잠기기보다, 생전의 나를 강렬하게 기억해달라는 의지가 담긴 곡입니다. 반복되는 비트와 폭발적인 에너지는 단순한 추모를 넘어 삶에 대한 강렬한 존재감, 나만의 리듬으로 살아온 흔적을 강조하죠. 조용한 슬픔이 아닌, 내가 어떤 사람이었는지를 잊지 말고 기억해달라는 메시지를 담고 싶었습니다.

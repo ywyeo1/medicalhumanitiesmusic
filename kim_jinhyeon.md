@@ -26,4 +26,8 @@ Example : The similar desease is described in Park Sang Young's 2024 drama [*The
 
 <img src="./kim_jinhyeon_img.png" alt="image depicting La Peste" style="width:25%;" />
 
+# 장례식에서 연주되길 희망하는 음악
+영화 코코의 OST인 Remember Me 라는 음악이 연주되는 것을 원합니다. 이 노래는 영화 코코의 사운드 트랙으로써 가사 내에서 나를 기억해줘, 헤어진다고 해서 울지 말렴과 같은 작별인사를 통해 이별하는 과정을 나타내고 있습니다. 
+코코라는 영화 자체가 내포하는 이별이라는 단어를 노래를 통해 다시한번 나타낼 수 있도록 하였는데, 이를 통해 이별이라는 것에 대해 음악을 통해 연결지을 수 있다고 생각하여 이러한 노래가 연주되었으면 하는 생각이었습니다.
+
 

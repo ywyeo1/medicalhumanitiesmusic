@@ -20,7 +20,7 @@ In short, it shows the conflict over the song Bohemian Rhapsody, aka the trash s
 <img src="./kwak_junyeong_img.png" alt="description" style="width:25%;" />
 
 
-#The Music I Wish to Be Played at My Funeral
+# The Music I Wish to Be Played at My Funeral
 
 I chose LeeChanhyeok's ['장례희망(Funeral hope)'](https://www.youtube.com/watch?v=iIn_1_XDuBM) because what this song expresses is very simillar to things I often imagine.
 Some of lyrics like "Congraturations, cheers, and applause at my funeral that I often imagined.", "I wanted it to be party because I'm in haeven now." and lyrics saying that I hope you leave me as a good memory or that haeven really exists are things that I imagined. So, I think this song expresses my imagination so well that I hope it will be played at my funeral as I speak to the people around me and the people I care about.

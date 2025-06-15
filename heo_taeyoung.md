@@ -17,3 +17,7 @@ The same disease is described in Thea Sharrock’s 2016 film [*Me Before You*](k
 
 <img src="./heo_taeyoung_img.png" alt="image description quadriplegia" style="width:25%;" />
 
+# 나의 장례식에선 나왔으면 하는 노래
+
+나의 장례식에서는 [드뷔시의 달빛](https://youtu.be/xl6qDlPCTUM?si=1e96L6h_RLVzX2eG)이 흘러나왔으면 좋겠다. 드뷔시의 ‘달빛’을 장례식에서 틀고 싶은 이유는, 이 곡이 지닌 고요하고도 깊은 아름다움이 이별의 순간을 조용히 감싸 안아 줄 것 같기 때문이다. 슬픔을 억누르거나 과장하지 않고, 마치 달빛처럼 잔잔하게 마음에 내려앉는 이 곡은 사랑했던 사람을 떠나보내는 데 있어 말보다 더 진한 위로가 될 수 있다고 느낀다. 곡이 흘러나오는 동안, 고인의 삶을 돌아보며 애도와 감사의 마음을 차분히 전할 수 있을 것 같다.
+

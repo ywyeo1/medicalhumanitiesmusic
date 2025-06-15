@@ -18,3 +18,8 @@ Through Beethoven's music, the film emotionally underscores Roy's suffering and 
 Example: The similar disease(paralysis) is described in Olivier Nakache 2011 film [*The Intouchables*](kim_naeun.md). The piano music *'Una Martina'* of "The Intouchables" depicts the protagonist's physical disability in three dimensions, similar to the symphony of "The Fall". Both songs have similar atmospheres that reveal the bitter and empty heart of the protagonist and at the same time give hope in the heart.
 
 <img src="./park_yeonwoo_img.png" alt="description" style="width: 25%;" />
+
+
+#내 장례식에 연주되길 희망하는 노래
+
+내 장례식에는 도시(dosii)의 ‘lovememore.’이라는 노래가 연주되었으면 좋겠다. 이 노래는 내가 살아오면서 가장 많이 들은 곡이고, 가사와 분위기에는 장례식에 와줄 이들에게 전하고 싶은 내 마음이 담겨 있다. 비록 나는 이제 세상에서 사라졌지만, 지금 이 순간만큼은 나를 기억하고, 한 번만 더 바라봐 주길 바란다. ‘lovememore.’은 그런 내 마지막 바람을 조용히 대신 전해주는 노래다.

@@ -22,7 +22,7 @@ The 2014 film [*”The Theory of Everything”*](zhang_yuwei.md) also portrays A
 
 <img src="./kim_hyoeun_img.PNG" alt="한 중년의 남성이 바닷가에 혼자 앉아 있다. 그는 전동 휠체어에 탄 채 흐린 하늘과 잔잔한 바다를 말없이 바라본다. 얼굴은 지쳐 있고 표정은 무겁다. 배경은 회색빛으로 물들어 있으며, 전반적으로 차분하고 고요한 분위기다. 화면 상단에는 영화 제목 “Perfect Man”과 “ALS”와 하단에는 “Music by Jang Young-gyu”라는 글자가 적혀 있다. 이 이미지는 병으로 인한 신체적 고통과 내면의 고독, 그리고 마지막까지 남은 희망의 순간을 조용히 담아낸다." style="width:25%;" />
 
-### 장례식에서 틀고 싶은 노래: [검정치마 – Love Shine](https://youtu.be/33tF2FBDJGI?si=xcTHz9zUSPKRBAYR)
+## 장례식에서 틀고 싶은 노래: [검정치마 – Love Shine](https://youtu.be/33tF2FBDJGI?si=xcTHz9zUSPKRBAYR)
 이 노래는 이별노래이자 사랑노래 입니다. 조용하고 따뜻한 분위기로, 사랑했던 사람들과 순간들을 담담하게 떠올리게 해줍니다.
 
 사는 동안 많은 고마움과 행복을 느꼈고, 그 마음을 전하고 싶습니다. 저는 원없이 잘 살았으니 너무 걱정하지 말고, 남은 분들도 행복하게 지내길 바랍니다. 또 언젠가 다시 함께 행복한 시간을 보낼 수 있을 거라는 믿음도 가지고 있습니다.

@@ -18,3 +18,8 @@ Cho-won is an autistic disabled person who looks normal on the surface, but his 
 Similarly, schizophrenia, classified as ICD 6A, is described in the 2014 drama [*It's Okay, That's Love*](do_gwanwoo.md) by Noh Heekyung, sung by singer Davichi, in a song with the same name as the drama.
 
 <img src="./kim_taehyeong_img.png" alt="The image depicting Autism" style="width:25%;" />
+
+# 장송곡
+[Butter-Fly](https://www.youtube.com/watch?v=c-2T-JnXEr8&t=5s)
+
+내 장례식에 와준 소중한 사람들이 듣는 곡인 만큼 그들에게 힘이 되어줄 수 있는 노래가 흘러나온다면 좋을 것 같고, 우리 세대는 어느 정도 다 알 수 있는 노래라고 생각해서 Butter-Fly를 선택하게 되었습니다. 일본 노래지만 사람들이 저의 장례식이면 한국인이 전부일테니 모두가 알아들을 수 있는 한국어 번안 버전을 선택했습니다.

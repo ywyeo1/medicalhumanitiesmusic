@@ -18,3 +18,7 @@ Type: Musical Number
 A similar disease, ALS, is described in the film [*The Theory of Everything*](kim_minju.md). The disease is portrayed through Die Walküre Act 1 – Vorspiel and Götterdämmerung – Siegfried’s Death and Funeral Music.
 
 <img src="./kim_hyoju_img.png" alt="" style="width:25%;" />
+
+[*John Lennon - Love*](https://www.youtube.com/watch?v=MUTz3LQEq1Q&list=RDMUTz3LQEq1Q&start_radio=1)
+
+The song I would like to be played at my funeral is [*"Love" by John Lennon8](https://www.youtube.com/watch?v=MUTz3LQEq1Q&list=RDMUTz3LQEq1Q&start_radio=1). It’s not my favorite song, but it’s the one I most want to share with others. That’s because its lyrics are deeply meaningful to me. There’s no elaborate language or grand statements—just a quiet, simple repetition that, to me, gently holds the essence of love. I hope that those attending my funeral will listen to this song and go on to live their days with a little more love in their hearts.

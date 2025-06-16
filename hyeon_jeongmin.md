@@ -35,4 +35,4 @@ I woke up on the phone ringtone. Honey, my voice is different from usual. I foun
 The heat came up and my whole body was so sad. I don't have this experience before. It hurts and healed greatly, and I have experienced that experience several times. But again. I thought I would die. And when I thought about it, I thought that death no longer depends on me. Think about it. For a healthy person, death can be a problem of choice. You can think about dying and you can move into action. But sick people are often different. The sick is a matter of choice. If you do nothing, the healthy is old, but the sick die. I didn't want to smoke and swallowed up something, and all the desires were gone. 
 
 I decided to do nothing once. I really wanted to do nothing. I had a towel in my mouth and stunned the ceiling for 13 hours.  
-Here is a playlist of the story:[here](https://www.youtube.com/playlist?list=PLWVjJ32KxG1mQiep20fepT3ZQ9lXZ1hmB)
+Here is a playlist of the story: [here](https://www.youtube.com/playlist?list=PLWVjJ32KxG1mQiep20fepT3ZQ9lXZ1hmB)

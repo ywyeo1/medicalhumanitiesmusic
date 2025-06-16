@@ -30,21 +30,21 @@ Max Richter – [“On the Nature of Daylight](https://youtu.be/InyT9Gyoz_o?si=-
 
 
 
-Character: Jimin’s Illness Narrative
-Name: Jimin (30 years old, female)
-Illness: Chronic Fatigue Syndrome (CFS)
+인물 소개: 지민의 질환 서사
+이름: 지민 (30세, 여성)
+질환: 만성 피로 증후군 (CFS, Chronic Fatigue Syndrome)
 
-Illness Narrative:
-"When did it begin? I’m not exactly sure. Waking up started to feel harder. Meeting people I used to love drained me. At first, I thought I was just having a few bad days. But those days stretched into months… and then years.
-Doctors ran tests but couldn’t find anything wrong. Some even asked if it was 'just in my head.' But I knew. I knew my body was truly unwell.
-Friends slowly disappeared. I stopped responding. Moving, speaking, even thinking—it all felt like too much. I felt myself fading out of existence.
-But it’s not over yet. I’m not fully recovered, but I’m learning to understand myself. I remind myself: I don’t have to be perfect. Even in pain, I am still me."_
+질환 서사:
+"언제부터였을까. 아침에 일어나기가 힘들어지고, 좋아하던 사람들을 만나는 것도 버거워졌어. 처음엔 그냥 우울한 날이겠지 싶었는데, 그 ‘하루’가 몇 달을 넘기고, 결국 몇 해를 넘기더라. 병원에서는 원인을 모르겠다고 했고, 나중엔 '그냥 마음의 병 아니냐'는 말까지 들었어. 하지만 나는 알았어. 내 몸이 정말 아픈 거라는 걸.
+친구들은 하나둘 연락을 끊었고, 나는 점점 고립되었어. 움직이는 것도, 말하는 것도 버거운 하루하루. ‘나’라는 존재가 사라지는 느낌이었지.
+하지만 아직 끝나지 않았어. 완전히 회복되지 않았지만, 나는 조금씩 나를 이해하려고 해. 완벽하진 않아도 괜찮다고. 아픈 나도, 여전히 나라고."_
 
-[Lee Hi – Breathe (한숨)](https://www.youtube.com/watch?v=1BBGzNF2VYg)
-A gentle song reminding you that it's okay to simply exist today.
+유튜브 플레이리스트: "지민의 하루"
+[이하이 - 한숨](https://www.youtube.com/watch?v=1BBGzNF2VYg)
+“그냥 그렇게 살아가면 돼”라는 가사가 마음을 어루만집니다.
 
-[Jeokjae – Walk with Me (나랑 같이 걸을래)](https://www.youtube.com/watch?v=KfHSC3Kikik)
-Like a soft voice asking if you'd like company on this lonely road.
+[적재 - 나랑 같이 걸을래](https://www.youtube.com/watch?v=KfHSC3Kikik)
+지친 마음에 작은 위로처럼 다가오는 곡.
 
-[Se So Neon – A Long Dream (긴 꿈)](https://www.youtube.com/watch?v=VnRz0Bfek0M)
-For those nights that feel like floating in a dream, when time blurs and the world softens.
+[새소년 - 긴 꿈](https://www.youtube.com/watch?v=VnRz0Bfek0M)
+몸도 마음도 지친 하루 끝, 마치 꿈속을 걷는 듯한 몽환적인 위안.

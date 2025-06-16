@@ -23,7 +23,7 @@ Links to each stage
 [Stage5](https://www.youtube.com/watch?v=wCIFWLWxHwM&list=OLAK5uy_kaRq_IjkSYoPmqR5eHQ7-erevT8IMFJYA)
 [Stage6](https://www.youtube.com/watch?v=hNY4putr7-I&list=OLAK5uy_kk5jHTM05i-WrK41Mlk2wW2WwYyPbcS8A)
 
-<img src="hyeon_jeongmin_img.png" alt="A painting of an old man suffering from memories and empty spaces in his memory of unknown origin." style="width:25;" />
+<img src="hyeon_jeongmin_img.png" alt="A painting of an old man suffering from memories and empty spaces in his memory of unknown origin." style="width:10;" />
 
 Music to be played at my funeral.  
 It is foolish to worry after death. But I like foolishness. Because it is a true heart without lies. I don't think I will die before my parents and my older sister, unless there is a disaster. Even if that happens, it will not change anything. I hope my death does not bring about any change in others. It is not that I want no one to be sad about my death. I just hope that the sadness does not have any more meaning. In that context, the song "Boy Reside Ahead Of Girls University"[(여대 앞에 사는 남자)](https://www.youtube.com/watch?v=rQUHVDb57uU) by Yoon Seok-cheol Trio will be played at my funeral. It has no particular meaning. I hope that it continues to move like fingers on a piano.

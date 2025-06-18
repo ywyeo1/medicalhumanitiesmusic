@@ -13,11 +13,9 @@ Composer: James Horner
 ["All Love Can Be"](https://youtu.be/Kajazfzb0Ow?feature=shared) from themovie Beautiful Mind, is a combination of gentle orchestra and calm vocals. This music helps us to understand not only the background of the movie, but also the emotions and situations experienced by the protagonist, John Nash.
 
 Nash, the protagonist of the film, is a genius mathematician but suffers from schizophrenia, which affects a person's ability to think, feel, and judge reality.
-
 Due to the influence of schizophrenia, hallucinations and delusions frequently appeared to him, which caused many difficulties not only in his research activities but also in human relationships.
 
-But instead of just focusing on the pain, the song reflects how Nash tries to keep going with his life. As it goes on, more instruments come in, and it feels like that mirrors the way he slowly starts to face his confusion and find some order in it.
-
+But instead of just focusing on the pain, the song reflects how Nash tries to keep going with his life. As it goes on, more instruments come in, and it feels like that mirrors the way he slowly starts to face his confusion and find some order in it. \
 It’s also played after the scene where Nash receives the Nobel Prize in Economics, and it helps the feeling of the film stay with you a little longer afterward.
 
 After learning about schizophrenia, the feeling of this music becomes deeper. The subtle harmony changes or layered sounds of the song express the tension between Nash's inner world andreality, and in the end, this music conveys themessage that love can be an important force to hold a person, no matter how confused his mind is.

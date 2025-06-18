@@ -9,7 +9,7 @@ Composer/singer: Marcelo ZarvosMarcelo
 Type: classical music
 ---
 
-# wonder
+# Wonder
 
 ["Ordinary Kid"](https://youtu.be/CT69UaBUydA?si=qt6t0Xb1kGwNrp_u) highlights the movie's core message, 'The Ordinary Kid,' and musically expresses Auggie's inner world and emotions. It is used as the background for Auggie's birth and surgical scenes. Fast-changing chords and repetitive melodies symbolically represent the tension of the moment Auggie was born,Auggie's inner conflict and growth process.
 

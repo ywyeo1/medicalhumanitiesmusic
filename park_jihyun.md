@@ -30,3 +30,5 @@ A의 직업은 원예디자이너로, 망막색소변성증(Retinitis Pigmentosa
 의뢰인은 시각장애인 학교였다. 
 
 망설임 끝에 그는 흙의 온도, 나무의 질감, 바람의 흐름, 향기의 결을 따라 정원을 만들기 시작한다. 시야는 어두워지지만 감각은 선명해졌다. 시각이 아닌 '기억'으로 정원이 완성되었다. 
+
+A처럼 시력을 잃어가며도 세상을 다르게 느끼고, 희망을 품는 인물을 위한 [플레이리스트](https://youtube.com/playlist?list=PLK_vqXZMkeVuv_Rc8OHGqMczAtF7Gdv0f&si=Iu_aweCcUSkul-sF)

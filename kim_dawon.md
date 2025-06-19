@@ -44,7 +44,7 @@ Chopin's "Butterfly Etude" portrays the delicate and free winging of a butterfly
 
 플레이리스트
 
-: 1. [베토벤 월광 소나타 1악장 (Beethoven Sonata No.14 'Moonlight' Op.27 1st Movt)](https://youtu.be/TKw4G-vArts?si=nJ7JIjQfcVtoC44d). 이 곡에서는 저음의 반복적인 피아노 소리로 인해 잔잔하고 무거운 분위기를 느낄 수 있다. 이러한 선율은 불안과 걱정이 마음 속에서 되뇌어지는 상태를 떠올리게 한다.
+: 1. [베토벤 월광 소나타 1악장 (Beethoven Sonata No.14 'Moonlight' Op.27 1st Movt)](https://youtu.be/TKw4G-vArts?si=nJ7JIjQfcVtoC44d). 이 곡에서는 저음의 반복적인 피아노 소리로 인해 잔잔하고 무거운 분위기를 느낄 수 있다. 이러한 선율은 불안과 걱정이 마음 속에서 맴돌며 심화되는 상태를 나타낸다.
 
 2. [Passenger- Let Her Go](https://youtu.be/B3EN7Ewwwvs?si=D3kBrQOKif94ARPE). 이 곡의 반복되며 부드러운 멜로디가 불안을 차분히 놓아주는 과정을 나타내는 것 같다. 또한 'let her go'라는 가사가 불안의 근본적인 원인을 수용하며 불안과 걱정을 내려놓는 상태를 나타낸다고 생각한다.
 
